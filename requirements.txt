@@ -1,8 +1,6 @@
 pandas
 numpy
 psycopg2-binary
-secure-smtplib
-smtplib
 seaborn
 scikit-learn
 matplotlib
