@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/1b64f8f047d8457fa7bd1d6c1951c8bb/artifacts
+end_time: 1762025384669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b64f8f047d8457fa7bd1d6c1951c8bb
+run_name: smiling-crab-331
+run_uuid: 1b64f8f047d8457fa7bd1d6c1951c8bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762025382186
+status: 3
+tags: []
+user_id: shardendujha

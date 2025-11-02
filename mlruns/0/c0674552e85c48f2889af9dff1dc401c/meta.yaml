@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/c0674552e85c48f2889af9dff1dc401c/artifacts
+end_time: 1761540753597
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0674552e85c48f2889af9dff1dc401c
+run_name: treasured-rat-323
+run_uuid: c0674552e85c48f2889af9dff1dc401c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761540751680
+status: 3
+tags: []
+user_id: shardendujha

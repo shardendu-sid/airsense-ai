@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/f0b5758d2c68497cb4432fa938793bd3/artifacts
+end_time: 1761583551522
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0b5758d2c68497cb4432fa938793bd3
+run_name: wise-squirrel-746
+run_uuid: f0b5758d2c68497cb4432fa938793bd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761583549594
+status: 3
+tags: []
+user_id: shardendujha

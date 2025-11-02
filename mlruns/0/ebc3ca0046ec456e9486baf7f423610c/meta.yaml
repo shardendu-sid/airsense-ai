@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/ebc3ca0046ec456e9486baf7f423610c/artifacts
+end_time: 1761637282601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebc3ca0046ec456e9486baf7f423610c
+run_name: secretive-mule-225
+run_uuid: ebc3ca0046ec456e9486baf7f423610c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761637280690
+status: 3
+tags: []
+user_id: shardendujha

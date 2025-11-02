@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/62a6c67433f34931a44df3ef64ac0715/artifacts
+end_time: 1742403044776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 62a6c67433f34931a44df3ef64ac0715
+run_name: bedecked-shrew-595
+run_uuid: 62a6c67433f34931a44df3ef64ac0715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742403043160
+status: 3
+tags: []
+user_id: shardendujha

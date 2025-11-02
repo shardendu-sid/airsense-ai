@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/3db3b820ee1b49bca4904d44852fb275/artifacts
+end_time: 1762025917032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3db3b820ee1b49bca4904d44852fb275
+run_name: judicious-seal-83
+run_uuid: 3db3b820ee1b49bca4904d44852fb275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762025915048
+status: 3
+tags: []
+user_id: shardendujha

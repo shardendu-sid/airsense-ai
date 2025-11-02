@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/2ac9ec38ecf64352886ec526b71a5e9c/artifacts
+end_time: 1762016510821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ac9ec38ecf64352886ec526b71a5e9c
+run_name: nebulous-seal-999
+run_uuid: 2ac9ec38ecf64352886ec526b71a5e9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762016508879
+status: 3
+tags: []
+user_id: shardendujha

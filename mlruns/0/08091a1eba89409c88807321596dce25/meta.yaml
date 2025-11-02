@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/08091a1eba89409c88807321596dce25/artifacts
+end_time: 1761545300308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 08091a1eba89409c88807321596dce25
+run_name: clumsy-shrimp-507
+run_uuid: 08091a1eba89409c88807321596dce25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761545298390
+status: 3
+tags: []
+user_id: shardendujha

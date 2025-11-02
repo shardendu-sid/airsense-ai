@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/eeede2f185214327843f237c73bbdc55/artifacts
+end_time: 1761627265857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eeede2f185214327843f237c73bbdc55
+run_name: rebellious-cub-170
+run_uuid: eeede2f185214327843f237c73bbdc55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761627263960
+status: 3
+tags: []
+user_id: shardendujha

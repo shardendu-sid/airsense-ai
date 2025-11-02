@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/64a97e56f50b4cbd9379a7cf238ac662/artifacts
+end_time: 1762087121575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64a97e56f50b4cbd9379a7cf238ac662
+run_name: legendary-shoat-582
+run_uuid: 64a97e56f50b4cbd9379a7cf238ac662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762087119592
+status: 3
+tags: []
+user_id: shardendujha

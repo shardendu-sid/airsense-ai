@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/bcf68f2fae5d44b492867aedbc60d30c/artifacts
+end_time: 1762092421253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcf68f2fae5d44b492867aedbc60d30c
+run_name: worried-ray-169
+run_uuid: bcf68f2fae5d44b492867aedbc60d30c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762092418885
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/6d5080f128a242eb9f80f3854b97bd56/artifacts
+end_time: 1762089014802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d5080f128a242eb9f80f3854b97bd56
+run_name: thoughtful-grouse-49
+run_uuid: 6d5080f128a242eb9f80f3854b97bd56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762089012884
+status: 3
+tags: []
+user_id: shardendujha

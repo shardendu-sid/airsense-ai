@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/2fb3178d725b4fe199682f45b7b8bc4b/artifacts
+end_time: 1761543483445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fb3178d725b4fe199682f45b7b8bc4b
+run_name: hilarious-bird-361
+run_uuid: 2fb3178d725b4fe199682f45b7b8bc4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761543481551
+status: 3
+tags: []
+user_id: shardendujha

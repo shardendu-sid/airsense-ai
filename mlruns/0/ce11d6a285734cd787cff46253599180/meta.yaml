@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/ce11d6a285734cd787cff46253599180/artifacts
+end_time: 1761629999249
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce11d6a285734cd787cff46253599180
+run_name: loud-smelt-856
+run_uuid: ce11d6a285734cd787cff46253599180
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761629997338
+status: 3
+tags: []
+user_id: shardendujha

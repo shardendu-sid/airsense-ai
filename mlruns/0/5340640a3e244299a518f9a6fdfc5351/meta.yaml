@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/5340640a3e244299a518f9a6fdfc5351/artifacts
+end_time: 1761513435722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5340640a3e244299a518f9a6fdfc5351
+run_name: likeable-cod-765
+run_uuid: 5340640a3e244299a518f9a6fdfc5351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761513433806
+status: 3
+tags: []
+user_id: shardendujha

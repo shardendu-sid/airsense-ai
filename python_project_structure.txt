@@ -1,0 +1,231 @@
+
+├── 1awair_data.csv
+├── app
+│   ├── auth
+│   │   ├── forms.py
+│   │   ├── __init__.py
+│   │   ├── models.py
+│   │   ├── __pycache__
+│   │   │   ├── forms.cpython-39.pyc
+│   │   │   ├── __init__.cpython-39.pyc
+│   │   │   ├── models.cpython-39.pyc
+│   │   │   └── routes.cpython-39.pyc
+│   │   ├── routes.py
+│   │   └── templates
+│   │       ├── login.html
+│   │       ├── registrations.html
+│   │       └── signup.html
+│   ├── Indoor_air_quality
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── forms.cpython-310.pyc
+│   │   │   ├── forms.cpython-37.pyc
+│   │   │   ├── __init__.cpython-310.pyc
+│   │   │   ├── __init__.cpython-37.pyc
+│   │   │   ├── __init__.cpython-39.pyc
+│   │   │   ├── models.cpython-310.pyc
+│   │   │   ├── models.cpython-37.pyc
+│   │   │   ├── routes.cpython-310.pyc
+│   │   │   ├── routes.cpython-37.pyc
+│   │   │   └── routes.cpython-39.pyc
+│   │   ├── routes.py
+│   │   └── templates
+│   │       ├── 404.html
+│   │       ├── about-project.html
+│   │       ├── add_new_device.html
+│   │       ├── awair_sensor.html
+│   │       ├── contact.html
+│   │       ├── device_info.html
+│   │       ├── energy_cost.html
+│   │       ├── exploratory_analysis.html
+│   │       ├── home.html
+│   │       ├── layout.html
+│   │       ├── ml_prediction.html
+│   │       ├── pick-model.html
+│   │       ├── system-design-tech.html
+│   │       └── weather.html
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── app.cpython-39.pyc
+│   │   └── __init__.cpython-39.pyc
+│   └── static
+│       ├── about-project
+│       │   ├── Indoor Air Quality Home Automation.pdf
+│       │   └── master_thesis.docx
+│       ├── css
+│       │   ├── about-project.css
+│       │   ├── add-new-device.css
+│       │   ├── awair_sensor.css
+│       │   ├── contact.css
+│       │   ├── data-analysis.css
+│       │   ├── home.css
+│       │   ├── login.css
+│       │   ├── pick-model.css
+│       │   ├── prediction.css
+│       │   ├── signup.css
+│       │   ├── splash.png
+│       │   ├── styles.css
+│       │   ├── system-design-tech.css
+│       │   └── weather.css
+│       ├── img
+│       │   ├── data_pipeline1.png
+│       │   ├── data_pipeline.png
+│       │   ├── deeper_connect_mini.png
+│       │   ├── deeperConnect.png
+│       │   ├── element_product.png
+│       │   ├── harddrive.png
+│       │   ├── IMG_0001.png
+│       │   ├── IMG_1809.png
+│       │   ├── nedis.png
+│       │   ├── raspberrypi.png
+│       │   ├── sensor_api.png
+│       │   ├── sensor.png
+│       │   ├── sensor_setup.png
+│       │   ├── shardendu.png
+│       │   ├── splash.png
+│       │   └── Tapo-P100_EU_1.0_.png
+│       └── js
+│           ├── bootstrap.min.js
+│           ├── focusnextfield.js
+│           ├── hamburgmenu.js
+│           └── wtz_token.js
+├── app.lock
+├── app_main.py
+├── app.py
+├── config
+│   ├── dev.py
+│   ├── prod.py
+│   └── test.py
+├── docker-compose.yml
+├── Dockerfile
+├── key_generate.py
+├── main.py
+├── notebook
+│   ├── exploratory_data_analysis.py
+│   ├── __init__.py
+│   └── __pycache__
+│       ├── exploratory_data_analysis.cpython-39.pyc
+│       └── __init__.cpython-39.pyc
+├── __pycache__
+│   ├── aaa.cpython-39.pyc
+│   ├── app.cpython-39.pyc
+│   ├── app_main.cpython-39.pyc
+│   ├── gunicor.cpython-39.pyc
+│   ├── main.cpython-39.pyc
+│   ├── seperate.cpython-39.pyc
+│   └── shared_values.cpython-39.pyc
+├── python_project_structure.txt
+├── README.md
+├── requirments.txt
+├── seperate.py
+├── src
+│   ├── air_cooler_integration
+│   │   ├── air_cooler.py
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   │       ├── air_cooler.cpython-39.pyc
+│   │       └── __init__.cpython-39.pyc
+│   ├── current_weather_outdoor
+│   │   ├── current_weather_outside.py
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   │       ├── current_weather_outside.cpython-39.pyc
+│   │       └── __init__.cpython-39.pyc
+│   ├── data_loader
+│   │   ├── data_loader.py
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   │       ├── data_loader.cpython-39.pyc
+│   │       └── __init__.cpython-39.pyc
+│   ├── email_notifications
+│   │   ├── email_notification.py
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   │       ├── email_notification.cpython-39.pyc
+│   │       └── __init__.cpython-39.pyc
+│   ├── __init__.py
+│   ├── models
+│   │   ├── evaluate_models.py
+│   │   ├── __init__.py
+│   │   ├── model.py
+│   │   ├── model_test_with_live_data.py
+│   │   ├── plot_prediction_with_live_data.py
+│   │   └── __pycache__
+│   │       ├── evaluate_models.cpython-39.pyc
+│   │       ├── __init__.cpython-39.pyc
+│   │       ├── model.cpython-39.pyc
+│   │       └── model_test_with_live_data.cpython-39.pyc
+│   ├── __pycache__
+│   │   ├── __init__.cpython-39.pyc
+│   │   └── train.cpython-39.pyc
+│   ├── sensor_api
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── __init__.cpython-39.pyc
+│   │   │   └── sensor_api_connection.cpython-39.pyc
+│   │   └── sensor_api_connection.py
+│   ├── train.py
+│   └── WiFi_Socket
+│       ├── __init__.py
+│       ├── __pycache__
+│       │   ├── __init__.cpython-39.pyc
+│       │   ├── tapo_info.cpython-39.pyc
+│       │   └── tapo_socket.cpython-39.pyc
+│       ├── tapo_info.py
+│       └── tapo_socket.py
+├── test.py
+└── tests
+    ├── __init__.py
+    ├── __pycache__
+    │   └── test_sensor_code.cpython-39.pyc
+    └── test_sensor_code.py
+**************
+To check what programe is running
+
+ps aux | grep main.py
+
+
+**************
+This should prevent the screen from blanking due to inactivity on your Raspberry Pi. 
+If there are any other power management settings you need to adjust, let me know, 
+and I can provide guidance on how to do so.
+
+
+sudo nano /etc/default/console-setup
+
+Find the line that starts with BLANK_TIME and POWERDOWN_TIME, and set both values to 0. 
+If these lines don't exist, you can add them at the end of the file:
+
+BLANK_TIME=0
+POWERDOWN_TIME=0
+
+After making these changes, reboot your Raspberry Pi for the settings to take effect:
+
+sudo reboot
+***************
+
+**********************
+If adjusting the console-setup configuration didn't prevent the screen from sleeping on your Raspberry Pi, 
+there may be other settings or configurations affecting the display power management. Here are some 
+additional steps you can try:
+
+Disable Screen Blanking via Terminal: In addition to adjusting the console-setup configuration file, 
+you can try disabling screen blanking directly via terminal commands. Run the following commands 
+in the terminal:
+
+sudo sh -c 'TERM=linux setterm -blank 0 >/dev/tty0'
+sudo sh -c 'TERM=linux setterm -powerdown 0 >/dev/tty0'
+
+it won't persist across reboots unless you configure them to do so
+
+sudo nano /etc/rc.local
+
+sh -c 'TERM=linux setterm -blank 0 >/dev/tty0'
+sh -c 'TERM=linux setterm -powerdown 0 >/dev/tty0'
+
+Save the file and exit the text editor.
+
+Make the script executable:
+
+sudo chmod +x /etc/rc.local
+

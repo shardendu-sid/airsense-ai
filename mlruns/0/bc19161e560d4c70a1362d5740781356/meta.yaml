@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/bc19161e560d4c70a1362d5740781356/artifacts
+end_time: 1761591749586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc19161e560d4c70a1362d5740781356
+run_name: invincible-lynx-949
+run_uuid: bc19161e560d4c70a1362d5740781356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761591747692
+status: 3
+tags: []
+user_id: shardendujha

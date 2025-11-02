@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/94b303e2934f4e4eb2f492b017e95657/artifacts
+end_time: 1761542574921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94b303e2934f4e4eb2f492b017e95657
+run_name: rogue-lynx-412
+run_uuid: 94b303e2934f4e4eb2f492b017e95657
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761542573019
+status: 3
+tags: []
+user_id: shardendujha

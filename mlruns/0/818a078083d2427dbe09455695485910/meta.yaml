@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/818a078083d2427dbe09455695485910/artifacts
+end_time: 1761592660020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 818a078083d2427dbe09455695485910
+run_name: sneaky-croc-413
+run_uuid: 818a078083d2427dbe09455695485910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761592658106
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/0067b1c70e90481aa64f622fe0fd25fe/artifacts
+end_time: 1761528910119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0067b1c70e90481aa64f622fe0fd25fe
+run_name: worried-stag-498
+run_uuid: 0067b1c70e90481aa64f622fe0fd25fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761528908216
+status: 3
+tags: []
+user_id: shardendujha

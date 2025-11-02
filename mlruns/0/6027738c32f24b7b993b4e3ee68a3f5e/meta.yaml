@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/6027738c32f24b7b993b4e3ee68a3f5e/artifacts
+end_time: 1761644816689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6027738c32f24b7b993b4e3ee68a3f5e
+run_name: fearless-deer-734
+run_uuid: 6027738c32f24b7b993b4e3ee68a3f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761644814425
+status: 3
+tags: []
+user_id: shardendujha

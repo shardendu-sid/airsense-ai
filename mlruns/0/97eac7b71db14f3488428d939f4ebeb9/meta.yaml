@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/97eac7b71db14f3488428d939f4ebeb9/artifacts
+end_time: 1761629997288
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97eac7b71db14f3488428d939f4ebeb9
+run_name: treasured-lark-692
+run_uuid: 97eac7b71db14f3488428d939f4ebeb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761629995399
+status: 3
+tags: []
+user_id: shardendujha

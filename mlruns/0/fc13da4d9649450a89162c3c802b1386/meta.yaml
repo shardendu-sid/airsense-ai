@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/fc13da4d9649450a89162c3c802b1386/artifacts
+end_time: 1761620890479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc13da4d9649450a89162c3c802b1386
+run_name: clean-midge-220
+run_uuid: fc13da4d9649450a89162c3c802b1386
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761620888578
+status: 3
+tags: []
+user_id: shardendujha

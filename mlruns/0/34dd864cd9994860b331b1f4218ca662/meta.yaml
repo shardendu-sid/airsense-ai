@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/34dd864cd9994860b331b1f4218ca662/artifacts
+end_time: 1742402259714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34dd864cd9994860b331b1f4218ca662
+run_name: sincere-mouse-396
+run_uuid: 34dd864cd9994860b331b1f4218ca662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742402258170
+status: 3
+tags: []
+user_id: shardendujha

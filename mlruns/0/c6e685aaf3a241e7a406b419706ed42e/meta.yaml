@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/c6e685aaf3a241e7a406b419706ed42e/artifacts
+end_time: 1761612702306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6e685aaf3a241e7a406b419706ed42e
+run_name: sneaky-chimp-810
+run_uuid: c6e685aaf3a241e7a406b419706ed42e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761612700395
+status: 3
+tags: []
+user_id: shardendujha

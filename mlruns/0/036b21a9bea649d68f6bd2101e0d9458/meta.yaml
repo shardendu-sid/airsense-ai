@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/036b21a9bea649d68f6bd2101e0d9458/artifacts
+end_time: 1762004972839
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 036b21a9bea649d68f6bd2101e0d9458
+run_name: dapper-lynx-783
+run_uuid: 036b21a9bea649d68f6bd2101e0d9458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762004970397
+status: 3
+tags: []
+user_id: shardendujha

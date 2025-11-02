@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/61ca669f1b0a401ab19af76820a916b1/artifacts
+end_time: 1761580817405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61ca669f1b0a401ab19af76820a916b1
+run_name: sincere-snipe-260
+run_uuid: 61ca669f1b0a401ab19af76820a916b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761580815507
+status: 3
+tags: []
+user_id: shardendujha

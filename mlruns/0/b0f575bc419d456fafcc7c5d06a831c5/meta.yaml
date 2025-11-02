@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/b0f575bc419d456fafcc7c5d06a831c5/artifacts
+end_time: 1761521632879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b0f575bc419d456fafcc7c5d06a831c5
+run_name: beautiful-finch-929
+run_uuid: b0f575bc419d456fafcc7c5d06a831c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761521630998
+status: 3
+tags: []
+user_id: shardendujha

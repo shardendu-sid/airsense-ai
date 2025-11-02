@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/1a0e660091ec4b29ae61ed701e6953f9/artifacts
+end_time: 1761517983823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a0e660091ec4b29ae61ed701e6953f9
+run_name: bustling-gull-283
+run_uuid: 1a0e660091ec4b29ae61ed701e6953f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761517981590
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/887e66dc47434a89b2a1e6ed8e69e03c/artifacts
+end_time: 1761639107451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 887e66dc47434a89b2a1e6ed8e69e03c
+run_name: hilarious-conch-976
+run_uuid: 887e66dc47434a89b2a1e6ed8e69e03c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761639105549
+status: 3
+tags: []
+user_id: shardendujha

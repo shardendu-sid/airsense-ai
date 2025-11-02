@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/d9d678f6ef084d2d947e2f478c8051ad/artifacts
+end_time: 1762092876571
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9d678f6ef084d2d947e2f478c8051ad
+run_name: skittish-stork-974
+run_uuid: d9d678f6ef084d2d947e2f478c8051ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762092421280
+status: 3
+tags: []
+user_id: shardendujha

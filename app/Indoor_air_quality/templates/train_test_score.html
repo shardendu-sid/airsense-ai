@@ -1,0 +1,137 @@
+{% extends 'layout.html' %}
+
+
+    {% block content %}
+    <h1>Model Train and Test Score</h1>  
+    <div class="top-bar">    
+          
+        <div class="search-container">
+            <form action="{{ url_for('main.display_train_test_score') }}" method="get">
+                <input type="text" name="search" placeholder="Search...">
+                <button type="submit">Search</button>
+            </form>
+        </div>    
+    </div>
+    
+    <table id="iaq-table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Temp Train Rmse</th>
+                <th>Temp Test Rmse</th>
+                <th>Temp Train Mae</th>
+                <th>Temp Test Mae</th>
+                <th>Temp Train R2</th>
+                <th>Temp Test R2</th>
+                <th>Humid Train Rmse</th>
+                <th>Humid Test Rmse</th>
+                <th>Humid Train Mae</th>
+                <th>Humid Test Mae</th>
+                <th>Humid Train R2</th>
+                <th>Humid Test R2</th>
+                <th>Co2 Train Rmse</th>
+                <th>Co2 Test Rmse</th>
+                <th>Co2 Train Mae</th>
+                <th>Co2 Test Mae</th>
+                <th>Co2 Train R2</th>
+                <th>Co2 Test R2</th>
+
+                <th>Voc Train Rmse</th>
+                <th>Voc Test Rmse</th>
+                <th>Voc Train Mae</th>
+                <th>Voc Test Mae</th>
+                <th>Voc Train R2</th>
+                <th>Voc Test R2</th>
+
+                <th>Pm25 Train Rmse</th>
+                <th>Pm25 Test Rmse</th>
+                <th>Pm25 Train Mae</th>
+                <th>Pm25 Test Mae</th>
+                <th>Pm25 Train R2</th>
+                <th>Pm25 Test R2</th>
+
+                
+                
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in table %}
+            <tr>
+                <td>{{ row['date'] }}</td>
+                <td>{{ row['temp_train_rmse'] }}</td>
+                <td>{{ row['temp_test_rmse'] }}</td>
+                <td>{{ row['temp_train_mae'] }}</td>
+                <td>{{ row['temp_test_mae'] }}</td>
+                <td>{{ row['temp_train_r2'] }}</td>
+                <td>{{ row['temp_test_r2'] }}</td>
+
+                <td>{{ row['humid_train_rmse'] }}</td>
+                <td>{{ row['humid_test_rmse'] }}</td>
+                <td>{{ row['humid_train_mae'] }}</td>
+                <td>{{ row['humid_test_mae'] }}</td>
+                <td>{{ row['humid_train_r2'] }}</td>
+                <td>{{ row['humid_test_r2'] }}</td>
+
+                <td>{{ row['co2_train_rmse'] }}</td>
+                <td>{{ row['co2_test_rmse'] }}</td>
+                <td>{{ row['co2_train_mae'] }}</td>
+                <td>{{ row['co2_test_mae'] }}</td>
+                <td>{{ row['co2_train_r2'] }}</td>
+                <td>{{ row['co2_test_r2'] }}</td>
+
+                <td>{{ row['voc_train_rmse'] }}</td>
+                <td>{{ row['voc_test_rmse'] }}</td>
+                <td>{{ row['voc_train_mae'] }}</td>
+                <td>{{ row['voc_test_mae'] }}</td>
+                <td>{{ row['voc_train_r2'] }}</td>
+                <td>{{ row['voc_test_r2'] }}</td>
+
+                <td>{{ row['pm25_train_rmse'] }}</td>
+                <td>{{ row['pm25_test_rmse'] }}</td>
+                <td>{{ row['pm25_train_mae'] }}</td>
+                <td>{{ row['pm25_test_mae'] }}</td>
+                <td>{{ row['pm25_train_r2'] }}</td>
+                <td>{{ row['pm25_test_r2'] }}</td>
+
+
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <!-- Pagination Links -->
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+             <!-- First Page Link -->
+             <li class="page-item {% if current_page == 1 %}disabled{% endif %}">
+                <a class="page-link" href="{{ url_for('main.display_train_test_score', page=1) }}">First</a>
+            </li>
+            <!-- Previous Page Link -->
+            <li class="page-item {% if current_page == 1 %}disabled{% endif %}">
+                <a class="page-link" href="{{ url_for('main.display_train_test_score', page=current_page-1) }}">Previous</a>
+            </li>
+
+            <!-- Page Number Links -->
+            {% set window = 5 %} <!-- Number of pages to show around the current page -->
+            {% for p in range(current_page - window, current_page + window + 1) %}
+                {% if p > 0 and p <= total_pages %}
+                    <li class="page-item {% if p == current_page %}active{% endif %}">
+                        <a class="page-link" href="{{ url_for('main.display_train_test_score', page=p,search=search_query) }}">{{ p }}</a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+
+            <!-- Next Page Link -->
+            <li class="page-item {% if current_page == total_pages %}disabled{% endif %}">
+                <a class="page-link" href="{{ url_for('main.display_train_test_score', page=current_page+1) }}">Next</a>
+            </li>
+            <!-- Last Page Link -->
+            <li class="page-item {% if current_page == total_pages %}disabled{% endif %}">
+                <a class="page-link" href="{{ url_for('main.display_train_test_score', page=total_pages) }}">Last</a>
+            </li>
+        </ul>
+    </nav>
+
+    
+
+    
+{% endblock %}

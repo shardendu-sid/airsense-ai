@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/ed300d296b0a4f71a068c3bd077719bd/artifacts
+end_time: 1761541660429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed300d296b0a4f71a068c3bd077719bd
+run_name: peaceful-cow-145
+run_uuid: ed300d296b0a4f71a068c3bd077719bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761541658338
+status: 3
+tags: []
+user_id: shardendujha

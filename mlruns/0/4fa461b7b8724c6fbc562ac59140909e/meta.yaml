@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/4fa461b7b8724c6fbc562ac59140909e/artifacts
+end_time: 1761550766577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fa461b7b8724c6fbc562ac59140909e
+run_name: fun-mule-733
+run_uuid: 4fa461b7b8724c6fbc562ac59140909e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761550764675
+status: 3
+tags: []
+user_id: shardendujha

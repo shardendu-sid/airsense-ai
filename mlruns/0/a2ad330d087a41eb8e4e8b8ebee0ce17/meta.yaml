@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a2ad330d087a41eb8e4e8b8ebee0ce17/artifacts
+end_time: 1761598126878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2ad330d087a41eb8e4e8b8ebee0ce17
+run_name: capricious-bat-179
+run_uuid: a2ad330d087a41eb8e4e8b8ebee0ce17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761598124950
+status: 3
+tags: []
+user_id: shardendujha

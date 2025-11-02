@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/fc9e6d8bb9c843088125b845b706b242/artifacts
+end_time: 1761528001701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc9e6d8bb9c843088125b845b706b242
+run_name: gentle-tern-946
+run_uuid: fc9e6d8bb9c843088125b845b706b242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761527999786
+status: 3
+tags: []
+user_id: shardendujha

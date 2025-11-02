@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/170e49ac52594538aa0423bd4b41d490/artifacts
+end_time: 1761500683593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 170e49ac52594538aa0423bd4b41d490
+run_name: orderly-kit-358
+run_uuid: 170e49ac52594538aa0423bd4b41d490
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761500681685
+status: 3
+tags: []
+user_id: shardendujha

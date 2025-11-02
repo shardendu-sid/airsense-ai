@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/049689090ee6457ca7bfcf8dc1a3b57f/artifacts
+end_time: 1761540751648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 049689090ee6457ca7bfcf8dc1a3b57f
+run_name: mercurial-pug-764
+run_uuid: 049689090ee6457ca7bfcf8dc1a3b57f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761540749748
+status: 3
+tags: []
+user_id: shardendujha

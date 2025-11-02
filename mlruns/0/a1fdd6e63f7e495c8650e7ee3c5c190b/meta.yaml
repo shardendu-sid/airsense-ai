@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a1fdd6e63f7e495c8650e7ee3c5c190b/artifacts
+end_time: 1762093721354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1fdd6e63f7e495c8650e7ee3c5c190b
+run_name: whimsical-zebra-480
+run_uuid: a1fdd6e63f7e495c8650e7ee3c5c190b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762093719246
+status: 3
+tags: []
+user_id: shardendujha

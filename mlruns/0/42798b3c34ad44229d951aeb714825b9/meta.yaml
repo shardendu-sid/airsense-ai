@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/42798b3c34ad44229d951aeb714825b9/artifacts
+end_time: 1761521629037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42798b3c34ad44229d951aeb714825b9
+run_name: clumsy-crane-470
+run_uuid: 42798b3c34ad44229d951aeb714825b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761521627124
+status: 3
+tags: []
+user_id: shardendujha

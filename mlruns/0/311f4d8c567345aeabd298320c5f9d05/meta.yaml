@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/311f4d8c567345aeabd298320c5f9d05/artifacts
+end_time: 1761520722496
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 311f4d8c567345aeabd298320c5f9d05
+run_name: thoughtful-quail-850
+run_uuid: 311f4d8c567345aeabd298320c5f9d05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761520720592
+status: 3
+tags: []
+user_id: shardendujha

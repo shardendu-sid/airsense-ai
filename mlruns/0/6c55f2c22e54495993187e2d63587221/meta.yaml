@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/6c55f2c22e54495993187e2d63587221/artifacts
+end_time: 1761507057877
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c55f2c22e54495993187e2d63587221
+run_name: blushing-shrimp-194
+run_uuid: 6c55f2c22e54495993187e2d63587221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761507055622
+status: 3
+tags: []
+user_id: shardendujha

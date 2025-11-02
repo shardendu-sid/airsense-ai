@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/4b2e9f13539a426bbc1eabfd101a693a/artifacts
+end_time: 1762086552201
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b2e9f13539a426bbc1eabfd101a693a
+run_name: treasured-sheep-351
+run_uuid: 4b2e9f13539a426bbc1eabfd101a693a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762086550169
+status: 3
+tags: []
+user_id: shardendujha

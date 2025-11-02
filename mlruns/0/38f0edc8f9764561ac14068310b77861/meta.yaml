@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/38f0edc8f9764561ac14068310b77861/artifacts
+end_time: 1762016508849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38f0edc8f9764561ac14068310b77861
+run_name: able-hare-365
+run_uuid: 38f0edc8f9764561ac14068310b77861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762016506898
+status: 3
+tags: []
+user_id: shardendujha

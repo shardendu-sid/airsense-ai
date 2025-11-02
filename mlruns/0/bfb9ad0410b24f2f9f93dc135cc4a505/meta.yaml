@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/bfb9ad0410b24f2f9f93dc135cc4a505/artifacts
+end_time: 1761598124919
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfb9ad0410b24f2f9f93dc135cc4a505
+run_name: burly-rook-384
+run_uuid: bfb9ad0410b24f2f9f93dc135cc4a505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761598123019
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/9a8d1b50fcf949c1898a1ac0e83ef392/artifacts
+end_time: 1762004919459
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a8d1b50fcf949c1898a1ac0e83ef392
+run_name: wistful-shrew-174
+run_uuid: 9a8d1b50fcf949c1898a1ac0e83ef392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762004917535
+status: 3
+tags: []
+user_id: shardendujha

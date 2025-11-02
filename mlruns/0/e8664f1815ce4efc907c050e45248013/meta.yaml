@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/e8664f1815ce4efc907c050e45248013/artifacts
+end_time: 1761569891512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8664f1815ce4efc907c050e45248013
+run_name: stylish-carp-386
+run_uuid: e8664f1815ce4efc907c050e45248013
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761569889607
+status: 3
+tags: []
+user_id: shardendujha

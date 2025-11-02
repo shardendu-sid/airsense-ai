@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/5af58849611340e481ebbe936d31794c/artifacts
+end_time: 1761640012121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5af58849611340e481ebbe936d31794c
+run_name: gregarious-fawn-230
+run_uuid: 5af58849611340e481ebbe936d31794c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761640010167
+status: 3
+tags: []
+user_id: shardendujha

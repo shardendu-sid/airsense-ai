@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/f239d0da2d284509a0135b2523decd25/artifacts
+end_time: 1761561688419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f239d0da2d284509a0135b2523decd25
+run_name: bittersweet-colt-213
+run_uuid: f239d0da2d284509a0135b2523decd25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761561686108
+status: 3
+tags: []
+user_id: shardendujha

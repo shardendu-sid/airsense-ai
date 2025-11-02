@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/01fcf9d435864d4991c8cd7a19c323e0/artifacts
+end_time: 1761635459293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 01fcf9d435864d4991c8cd7a19c323e0
+run_name: orderly-hog-59
+run_uuid: 01fcf9d435864d4991c8cd7a19c323e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761635457375
+status: 3
+tags: []
+user_id: shardendujha

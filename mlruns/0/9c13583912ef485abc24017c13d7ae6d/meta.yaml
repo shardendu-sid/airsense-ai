@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/9c13583912ef485abc24017c13d7ae6d/artifacts
+end_time: 1761574439251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c13583912ef485abc24017c13d7ae6d
+run_name: sneaky-hog-867
+run_uuid: 9c13583912ef485abc24017c13d7ae6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761574436931
+status: 3
+tags: []
+user_id: shardendujha

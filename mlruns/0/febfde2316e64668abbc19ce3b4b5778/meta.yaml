@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/febfde2316e64668abbc19ce3b4b5778/artifacts
+end_time: 1761638193080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: febfde2316e64668abbc19ce3b4b5778
+run_name: resilient-fly-157
+run_uuid: febfde2316e64668abbc19ce3b4b5778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761638191155
+status: 3
+tags: []
+user_id: shardendujha

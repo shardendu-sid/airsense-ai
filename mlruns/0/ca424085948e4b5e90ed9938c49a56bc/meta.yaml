@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/ca424085948e4b5e90ed9938c49a56bc/artifacts
+end_time: 1742491486156
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca424085948e4b5e90ed9938c49a56bc
+run_name: trusting-sponge-436
+run_uuid: ca424085948e4b5e90ed9938c49a56bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742491484667
+status: 3
+tags: []
+user_id: shardendujha

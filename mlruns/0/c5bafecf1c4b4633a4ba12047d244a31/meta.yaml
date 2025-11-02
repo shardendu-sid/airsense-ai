@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/c5bafecf1c4b4633a4ba12047d244a31/artifacts
+end_time: 1761549854314
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5bafecf1c4b4633a4ba12047d244a31
+run_name: bald-goose-667
+run_uuid: c5bafecf1c4b4633a4ba12047d244a31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761549852414
+status: 3
+tags: []
+user_id: shardendujha

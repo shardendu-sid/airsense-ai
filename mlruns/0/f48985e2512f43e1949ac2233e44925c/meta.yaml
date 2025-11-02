@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/f48985e2512f43e1949ac2233e44925c/artifacts
+end_time: 1742403041506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f48985e2512f43e1949ac2233e44925c
+run_name: exultant-shrike-523
+run_uuid: f48985e2512f43e1949ac2233e44925c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742403039076
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/20edc6f4f40d486690504e3bfcf648c2/artifacts
+end_time: 1761609060644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20edc6f4f40d486690504e3bfcf648c2
+run_name: wistful-snake-630
+run_uuid: 20edc6f4f40d486690504e3bfcf648c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761609058739
+status: 3
+tags: []
+user_id: shardendujha

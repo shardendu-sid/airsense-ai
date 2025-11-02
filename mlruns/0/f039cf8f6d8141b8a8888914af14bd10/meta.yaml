@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/f039cf8f6d8141b8a8888914af14bd10/artifacts
+end_time: 1761570801861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f039cf8f6d8141b8a8888914af14bd10
+run_name: amusing-bee-249
+run_uuid: f039cf8f6d8141b8a8888914af14bd10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761570799953
+status: 3
+tags: []
+user_id: shardendujha

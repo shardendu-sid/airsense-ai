@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/ed1cc860c45d4981a1410a6d7bafec40/artifacts
+end_time: 1761549858206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed1cc860c45d4981a1410a6d7bafec40
+run_name: fortunate-ox-476
+run_uuid: ed1cc860c45d4981a1410a6d7bafec40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761549856289
+status: 3
+tags: []
+user_id: shardendujha

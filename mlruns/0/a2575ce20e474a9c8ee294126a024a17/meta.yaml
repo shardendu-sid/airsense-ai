@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a2575ce20e474a9c8ee294126a024a17/artifacts
+end_time: 1762090552326
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a2575ce20e474a9c8ee294126a024a17
+run_name: whimsical-kit-765
+run_uuid: a2575ce20e474a9c8ee294126a024a17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762090550324
+status: 3
+tags: []
+user_id: shardendujha

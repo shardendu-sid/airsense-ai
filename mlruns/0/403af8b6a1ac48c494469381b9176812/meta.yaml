@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/403af8b6a1ac48c494469381b9176812/artifacts
+end_time: 1762015604394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 403af8b6a1ac48c494469381b9176812
+run_name: rumbling-hound-807
+run_uuid: 403af8b6a1ac48c494469381b9176812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762015602466
+status: 3
+tags: []
+user_id: shardendujha

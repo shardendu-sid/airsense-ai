@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/9207756c4f7e403a83d57678fddda66f/artifacts
+end_time: 1761593572494
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9207756c4f7e403a83d57678fddda66f
+run_name: worried-flea-350
+run_uuid: 9207756c4f7e403a83d57678fddda66f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761593570551
+status: 3
+tags: []
+user_id: shardendujha

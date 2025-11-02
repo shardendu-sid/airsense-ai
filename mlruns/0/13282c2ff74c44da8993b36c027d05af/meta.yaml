@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/13282c2ff74c44da8993b36c027d05af/artifacts
+end_time: 1761560785588
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13282c2ff74c44da8993b36c027d05af
+run_name: fearless-boar-541
+run_uuid: 13282c2ff74c44da8993b36c027d05af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761560783688
+status: 3
+tags: []
+user_id: shardendujha

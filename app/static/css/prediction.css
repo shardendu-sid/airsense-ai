@@ -1,0 +1,46 @@
+
+/* Styles for tables */
+#prediction-history {
+    border-collapse: collapse;
+    width: 85%; /* Adjusted width for larger screens */
+    margin: 20px auto; /*Center the table  */
+    overflow-x: auto; /* Horizontal scrolling */
+   
+  }
+  
+  #prediction-history th, #prediction-history td {
+    border: 1px solid #ddd;
+    padding: 0px; /* Original padding */
+    white-space: nowrap; /* Keep data in single line */
+    text-align: center;
+    background: #ede6dc;
+    font-size: 11px; /* Original font size */
+  }
+  
+  #prediction-history th {
+    background-color: #333;
+    color: white;
+  }
+  
+  #prediction-history tr:nth-child(even) {
+    background-color: #f2f2f2;
+    
+  }
+  
+  /* Responsive styles for smaller screens (like tablets and mobile devices) */
+  @media screen and (max-width: 768px) {
+    #prediction-history {
+      width: 100%; /* Full width for smaller screens */
+      overflow-x: scroll; /* Horizontal scrolling for smaller screens */
+      -webkit-overflow-scrolling: touch; /* Smooth scrolling for iOS devices */
+      margin-left: 10px; /* Adjusted left margin */
+      margin-right: 10px; /* Adjusted right margin */
+      max-width: calc(100vw - 20px); /* Adjusted maximum width */
+    }
+  
+    #prediction-history th, #prediction-history td {
+      padding: 2px; /* Reduced padding for smaller screens */
+      font-size: 10px; /* Smaller font size for better readability */
+    }
+  }
+  

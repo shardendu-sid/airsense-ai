@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/8617f12fac964d2aad1a6199ddcd596d/artifacts
+end_time: 1761500685549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8617f12fac964d2aad1a6199ddcd596d
+run_name: monumental-fly-110
+run_uuid: 8617f12fac964d2aad1a6199ddcd596d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761500683623
+status: 3
+tags: []
+user_id: shardendujha

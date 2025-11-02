@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/59700d0c34084f53ad8a5db08ce27990/artifacts
+end_time: 1761615433786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59700d0c34084f53ad8a5db08ce27990
+run_name: agreeable-fawn-947
+run_uuid: 59700d0c34084f53ad8a5db08ce27990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761615431885
+status: 3
+tags: []
+user_id: shardendujha

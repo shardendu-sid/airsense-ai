@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/6d3a7fb49aab4ff6918fbf6c71ca251a/artifacts
+end_time: 1761608148304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d3a7fb49aab4ff6918fbf6c71ca251a
+run_name: unique-bird-397
+run_uuid: 6d3a7fb49aab4ff6918fbf6c71ca251a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761608146385
+status: 3
+tags: []
+user_id: shardendujha

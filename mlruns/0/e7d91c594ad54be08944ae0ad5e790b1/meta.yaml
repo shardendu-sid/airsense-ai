@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/e7d91c594ad54be08944ae0ad5e790b1/artifacts
+end_time: 1761558052161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7d91c594ad54be08944ae0ad5e790b1
+run_name: ambitious-cub-348
+run_uuid: e7d91c594ad54be08944ae0ad5e790b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761558050218
+status: 3
+tags: []
+user_id: shardendujha

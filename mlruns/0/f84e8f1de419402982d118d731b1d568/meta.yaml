@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/f84e8f1de419402982d118d731b1d568/artifacts
+end_time: 1762092884790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f84e8f1de419402982d118d731b1d568
+run_name: useful-fox-529
+run_uuid: f84e8f1de419402982d118d731b1d568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762092882702
+status: 3
+tags: []
+user_id: shardendujha

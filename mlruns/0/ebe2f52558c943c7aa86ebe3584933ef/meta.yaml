@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/ebe2f52558c943c7aa86ebe3584933ef/artifacts
+end_time: 1761634550761
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebe2f52558c943c7aa86ebe3584933ef
+run_name: mysterious-mouse-71
+run_uuid: ebe2f52558c943c7aa86ebe3584933ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761634548847
+status: 3
+tags: []
+user_id: shardendujha

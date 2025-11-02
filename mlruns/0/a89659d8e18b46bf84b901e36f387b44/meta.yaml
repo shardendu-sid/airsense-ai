@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a89659d8e18b46bf84b901e36f387b44/artifacts
+end_time: 1761633642219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a89659d8e18b46bf84b901e36f387b44
+run_name: whimsical-boar-323
+run_uuid: a89659d8e18b46bf84b901e36f387b44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761633640290
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/1ae34d70eea646d29fbef356104bbb97/artifacts
+end_time: 1761588111771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1ae34d70eea646d29fbef356104bbb97
+run_name: mysterious-gull-19
+run_uuid: 1ae34d70eea646d29fbef356104bbb97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761588109857
+status: 3
+tags: []
+user_id: shardendujha

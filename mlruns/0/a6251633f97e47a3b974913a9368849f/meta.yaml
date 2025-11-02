@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a6251633f97e47a3b974913a9368849f/artifacts
+end_time: 1762026065567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6251633f97e47a3b974913a9368849f
+run_name: resilient-swan-183
+run_uuid: a6251633f97e47a3b974913a9368849f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762026063382
+status: 3
+tags: []
+user_id: shardendujha

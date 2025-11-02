@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/ba479ef2bcac44afae6c8dbe354840c5/artifacts
+end_time: 1761585371469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba479ef2bcac44afae6c8dbe354840c5
+run_name: polite-seal-124
+run_uuid: ba479ef2bcac44afae6c8dbe354840c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761585369548
+status: 3
+tags: []
+user_id: shardendujha

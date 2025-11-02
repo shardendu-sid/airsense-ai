@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/0213472f86384088a8092be32aff0a07/artifacts
+end_time: 1762026067611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0213472f86384088a8092be32aff0a07
+run_name: bedecked-elk-128
+run_uuid: 0213472f86384088a8092be32aff0a07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762026065592
+status: 3
+tags: []
+user_id: shardendujha

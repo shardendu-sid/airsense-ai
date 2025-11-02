@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/d5eeb8844eab4131bb438c22ab40989d/artifacts
+end_time: 1761622717289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5eeb8844eab4131bb438c22ab40989d
+run_name: painted-mouse-413
+run_uuid: d5eeb8844eab4131bb438c22ab40989d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761622715362
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a48cefb6ec7546dabaa61bd649cdeae4/artifacts
+end_time: 1761613606922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a48cefb6ec7546dabaa61bd649cdeae4
+run_name: dashing-roo-438
+run_uuid: a48cefb6ec7546dabaa61bd649cdeae4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761613605001
+status: 3
+tags: []
+user_id: shardendujha

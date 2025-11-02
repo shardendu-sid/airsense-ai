@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/2daaecd060f7416b8b83521bd749782a/artifacts
+end_time: 1762092882674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2daaecd060f7416b8b83521bd749782a
+run_name: welcoming-pig-217
+run_uuid: 2daaecd060f7416b8b83521bd749782a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762092880144
+status: 3
+tags: []
+user_id: shardendujha

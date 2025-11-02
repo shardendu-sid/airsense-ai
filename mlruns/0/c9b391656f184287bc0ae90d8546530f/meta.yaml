@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/c9b391656f184287bc0ae90d8546530f/artifacts
+end_time: 1761526184876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c9b391656f184287bc0ae90d8546530f
+run_name: dazzling-skink-420
+run_uuid: c9b391656f184287bc0ae90d8546530f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761526182928
+status: 3
+tags: []
+user_id: shardendujha

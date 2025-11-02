@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/50e061d3eb1f4ec49470d36ae0fd1779/artifacts
+end_time: 1761610875630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50e061d3eb1f4ec49470d36ae0fd1779
+run_name: spiffy-bat-312
+run_uuid: 50e061d3eb1f4ec49470d36ae0fd1779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761610873707
+status: 3
+tags: []
+user_id: shardendujha

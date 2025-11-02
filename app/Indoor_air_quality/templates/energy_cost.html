@@ -1,0 +1,162 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<h1>Historical Energy Cost Analysis Data</h1>  
+    <div class="top-bar">    
+          
+        <div class="search-container">
+            <form action="{{ url_for('main.display_energy_data') }}" method="get">
+                <input type="text" name="search" placeholder="Search...">
+                <button type="submit">Search</button>
+            </form>
+        </div>    
+    </div>
+    
+    
+    <table id="iaq-table">
+        <thead>
+            <tr>
+                <th>Start_time</th>
+                <th>End_time</th>
+                <th>Used_time_hrs</th>
+                <th>Price_per_kwh_cents</th>
+                <th>Transfer_per_kwh</th>
+                <th>Tax_per_kwh</th>
+                <th>Total_cost_euro</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+
+            {% for row in table %}
+            
+            <tr>
+                <td>{{ row['Start_time'] }}</td>
+                <td>{{ row['End_time'] }}</td>
+                <td>{{ row['Used_time_hrs'] }}</td>
+                <td>{{ row['Price_per_kwh_cents'] }}</td>
+                <td>{{ row['Transfer_per_kwh'] }}</td>
+                <td>{{ row['Tax_per_kwh'] }}</td>
+                <td>{{ row['Total_cost_euro'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <!-- Pagination Links -->
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            <!-- First Page Link -->
+            <li class="page-item {% if current_page == 1 %}disabled{% endif %}">
+                <a class="page-link" href="{{ url_for('main.display_energy_data', page=1) }}">First</a>
+            </li>
+            <!-- Previous Page Link -->
+            <li class="page-item {% if current_page == 1 %}disabled{% endif %}">
+                <a class="page-link" href="{{ url_for('main.display_energy_data', page=current_page-1) }}">Previous</a>
+            </li>
+
+            <!-- Page Number Links -->
+            {% set window = 5 %} <!-- Number of pages to show around the current page -->
+            {% for p in range(current_page - window, current_page + window + 1) %}
+                {% if p > 0 and p <= total_pages %}
+                    <li class="page-item {% if p == current_page %}active{% endif %}">
+                        <a class="page-link" href="{{ url_for('main.display_energy_data', page=p,search=search_query) }}">{{ p }}</a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+
+            <!-- Next Page Link -->
+            <li class="page-item {% if current_page == total_pages %}disabled{% endif %}">
+                <a class="page-link" href="{{ url_for('main.display_energy_data', page=current_page+1) }}">Next</a>
+            </li>
+
+             <!-- Last Page Link -->
+             <li class="page-item {% if current_page == total_pages %}disabled{% endif %}">
+                <a class="page-link" href="{{ url_for('main.display_energy_data', page=total_pages) }}">Last</a>
+            </li>
+        </ul>
+    </nav>
+    
+    <div class="graph-container">
+        <canvas id="myChart"></canvas>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const ctx = document.getElementById('myChart').getContext('2d');
+    
+            let energyChart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: [], // This will be populated with Start_time values
+                    datasets: [
+                            {
+                                label: 'Used_time_hrs',
+                                data: [],
+                                borderColor: 'rgba(255, 99, 132, 1)',
+                                borderWidth: 1
+                            },
+                            {
+                                label: 'Price_per_kwh_cents',
+                                data: [],
+                                borderColor: 'rgba(54, 162, 235, 1)',
+                                borderWidth: 1
+                            },
+                            {
+                                label: 'Transfer_per_kwh',
+                                data: [],
+                                borderColor: 'rgba(75, 192, 192, 1)',
+                                borderWidth: 1
+                            },
+                            {
+                                label: 'Tax_per_kwh',
+                                data: [],
+                                borderColor: 'rgba(153, 102, 255, 1)',
+                                borderWidth: 1
+                            },
+                            {
+                                label: 'Total_cost_euro',
+                                data: [],
+                                borderColor: 'rgba(255, 206, 86, 1)',
+                                borderWidth: 1
+                            }
+                                // ... other datasets ...
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+    
+            function updateEnergyChart() {
+                fetch('/energy-data') // Ensure this matches your actual endpoint
+                    .then(response => response.json())
+                    .then(data => {
+                        energyChart.data.labels = data.map(item => item.Start_time);
+
+                        energyChart.data.datasets[0].data = data.map(item => item.Used_time_hrs);
+                        energyChart.data.datasets[1].data = data.map(item => item.Price_per_kwh_cents);
+                        energyChart.data.datasets[2].data = data.map(item => item.Transfer_per_kwh);
+                        energyChart.data.datasets[3].data = data.map(item => item.Tax_per_kwh);
+                        energyChart.data.datasets[4].data = data.map(item => item.Total_cost_euro);
+
+                        energyChart.update();
+                    })
+                    .catch(error => {
+                        console.error('Error fetching energy data:', error);
+                    });
+            }
+    
+            updateEnergyChart();
+            setInterval(updateEnergyChart, 600000); // 10 minutes interval
+        });
+    </script>
+    
+    
+{% endblock %}

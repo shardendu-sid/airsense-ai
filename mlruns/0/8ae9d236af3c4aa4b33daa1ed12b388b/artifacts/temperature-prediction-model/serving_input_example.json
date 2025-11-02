@@ -1,0 +1,18 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "temp",
+      "humid",
+      "co2",
+      "pm25"
+    ],
+    "data": [
+      [
+        48.78,
+        599.0,
+        154.0,
+        1.0
+      ]
+    ]
+  }
+}

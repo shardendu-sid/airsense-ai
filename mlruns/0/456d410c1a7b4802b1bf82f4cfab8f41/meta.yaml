@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/456d410c1a7b4802b1bf82f4cfab8f41/artifacts
+end_time: 1761634546866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 456d410c1a7b4802b1bf82f4cfab8f41
+run_name: popular-deer-616
+run_uuid: 456d410c1a7b4802b1bf82f4cfab8f41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761634544521
+status: 3
+tags: []
+user_id: shardendujha

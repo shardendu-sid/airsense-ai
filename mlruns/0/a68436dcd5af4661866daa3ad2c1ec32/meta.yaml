@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a68436dcd5af4661866daa3ad2c1ec32/artifacts
+end_time: 1761616340275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a68436dcd5af4661866daa3ad2c1ec32
+run_name: suave-hen-45
+run_uuid: a68436dcd5af4661866daa3ad2c1ec32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761616338360
+status: 3
+tags: []
+user_id: shardendujha

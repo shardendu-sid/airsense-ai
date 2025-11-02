@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/99c8251edd1a451ab42396e8a116bb6e/artifacts
+end_time: 1762086550143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99c8251edd1a451ab42396e8a116bb6e
+run_name: sneaky-eel-736
+run_uuid: 99c8251edd1a451ab42396e8a116bb6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762086548001
+status: 3
+tags: []
+user_id: shardendujha

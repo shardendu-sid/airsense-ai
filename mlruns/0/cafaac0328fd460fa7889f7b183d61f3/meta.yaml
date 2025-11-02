@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/cafaac0328fd460fa7889f7b183d61f3/artifacts
+end_time: 1762090550300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cafaac0328fd460fa7889f7b183d61f3
+run_name: bold-foal-525
+run_uuid: cafaac0328fd460fa7889f7b183d61f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762090546883
+status: 3
+tags: []
+user_id: shardendujha

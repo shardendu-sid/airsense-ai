@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/26c6d50ce63348548fbae35e5c4ae2e3/artifacts
+end_time: 1761534372867
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26c6d50ce63348548fbae35e5c4ae2e3
+run_name: shivering-hen-575
+run_uuid: 26c6d50ce63348548fbae35e5c4ae2e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761534370622
+status: 3
+tags: []
+user_id: shardendujha

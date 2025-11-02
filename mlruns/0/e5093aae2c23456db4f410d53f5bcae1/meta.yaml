@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/e5093aae2c23456db4f410d53f5bcae1/artifacts
+end_time: 1762093727445
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5093aae2c23456db4f410d53f5bcae1
+run_name: defiant-yak-369
+run_uuid: e5093aae2c23456db4f410d53f5bcae1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762093725466
+status: 3
+tags: []
+user_id: shardendujha

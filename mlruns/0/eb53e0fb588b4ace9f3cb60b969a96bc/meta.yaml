@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/eb53e0fb588b4ace9f3cb60b969a96bc/artifacts
+end_time: 1761532554075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb53e0fb588b4ace9f3cb60b969a96bc
+run_name: thundering-kite-991
+run_uuid: eb53e0fb588b4ace9f3cb60b969a96bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761532552119
+status: 3
+tags: []
+user_id: shardendujha

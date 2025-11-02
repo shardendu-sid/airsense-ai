@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/2e3f19a30e0a485fbb7a7bae9f4bc978/artifacts
+end_time: 1761609965182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e3f19a30e0a485fbb7a7bae9f4bc978
+run_name: fortunate-seal-137
+run_uuid: 2e3f19a30e0a485fbb7a7bae9f4bc978
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761609963267
+status: 3
+tags: []
+user_id: shardendujha

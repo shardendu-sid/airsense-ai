@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/bcc09abc68f943ca8063c0942f4bd5ab/artifacts
+end_time: 1761507968317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bcc09abc68f943ca8063c0942f4bd5ab
+run_name: persistent-auk-39
+run_uuid: bcc09abc68f943ca8063c0942f4bd5ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761507966070
+status: 3
+tags: []
+user_id: shardendujha

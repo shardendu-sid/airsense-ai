@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/2bf7b40be8604d9cbc47b7eeb2017f15/artifacts
+end_time: 1761526177091
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bf7b40be8604d9cbc47b7eeb2017f15
+run_name: efficient-mare-560
+run_uuid: 2bf7b40be8604d9cbc47b7eeb2017f15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761526174862
+status: 3
+tags: []
+user_id: shardendujha

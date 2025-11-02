@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a337b2b66fba4348b48dc50f0a548bf8/artifacts
+end_time: 1761591745733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a337b2b66fba4348b48dc50f0a548bf8
+run_name: orderly-sloth-929
+run_uuid: a337b2b66fba4348b48dc50f0a548bf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761591743493
+status: 3
+tags: []
+user_id: shardendujha

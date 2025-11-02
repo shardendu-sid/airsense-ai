@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/4b64d4b2e1394ad6ac2f88b5a61e2fd4/artifacts
+end_time: 1761579905136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b64d4b2e1394ad6ac2f88b5a61e2fd4
+run_name: awesome-ant-95
+run_uuid: 4b64d4b2e1394ad6ac2f88b5a61e2fd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761579903247
+status: 3
+tags: []
+user_id: shardendujha

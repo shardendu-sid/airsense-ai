@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/2f9601ef05514e84bf1e413c4e1716c3/artifacts
+end_time: 1761646640531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f9601ef05514e84bf1e413c4e1716c3
+run_name: bouncy-quail-52
+run_uuid: 2f9601ef05514e84bf1e413c4e1716c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761646638111
+status: 3
+tags: []
+user_id: shardendujha

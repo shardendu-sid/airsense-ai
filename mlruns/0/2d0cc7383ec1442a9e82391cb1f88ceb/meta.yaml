@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/2d0cc7383ec1442a9e82391cb1f88ceb/artifacts
+end_time: 1761525274592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2d0cc7383ec1442a9e82391cb1f88ceb
+run_name: indecisive-foal-764
+run_uuid: 2d0cc7383ec1442a9e82391cb1f88ceb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761525272662
+status: 3
+tags: []
+user_id: shardendujha

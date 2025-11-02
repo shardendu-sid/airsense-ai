@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/2f32043ab4af4ac9b5b08924002283ca/artifacts
+end_time: 1761563516567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f32043ab4af4ac9b5b08924002283ca
+run_name: secretive-rat-360
+run_uuid: 2f32043ab4af4ac9b5b08924002283ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761563514587
+status: 3
+tags: []
+user_id: shardendujha

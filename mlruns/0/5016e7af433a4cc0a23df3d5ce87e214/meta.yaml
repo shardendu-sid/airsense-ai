@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/5016e7af433a4cc0a23df3d5ce87e214/artifacts
+end_time: 1761559869260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5016e7af433a4cc0a23df3d5ce87e214
+run_name: fun-newt-423
+run_uuid: 5016e7af433a4cc0a23df3d5ce87e214
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761559867330
+status: 3
+tags: []
+user_id: shardendujha

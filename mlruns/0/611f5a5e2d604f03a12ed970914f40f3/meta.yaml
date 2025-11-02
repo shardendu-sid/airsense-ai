@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/611f5a5e2d604f03a12ed970914f40f3/artifacts
+end_time: 1762088007890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 611f5a5e2d604f03a12ed970914f40f3
+run_name: fortunate-sheep-711
+run_uuid: 611f5a5e2d604f03a12ed970914f40f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762088005906
+status: 3
+tags: []
+user_id: shardendujha

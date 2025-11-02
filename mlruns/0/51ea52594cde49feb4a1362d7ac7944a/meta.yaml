@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/51ea52594cde49feb4a1362d7ac7944a/artifacts
+end_time: 1761591753524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51ea52594cde49feb4a1362d7ac7944a
+run_name: silent-swan-775
+run_uuid: 51ea52594cde49feb4a1362d7ac7944a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761591751590
+status: 3
+tags: []
+user_id: shardendujha

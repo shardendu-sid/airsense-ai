@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/5ce3ce466ed94a569ae27cf121d964e7/artifacts
+end_time: 1761627267798
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ce3ce466ed94a569ae27cf121d964e7
+run_name: amazing-mouse-408
+run_uuid: 5ce3ce466ed94a569ae27cf121d964e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761627265894
+status: 3
+tags: []
+user_id: shardendujha

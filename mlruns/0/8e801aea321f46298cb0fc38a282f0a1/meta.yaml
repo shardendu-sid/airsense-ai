@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/8e801aea321f46298cb0fc38a282f0a1/artifacts
+end_time: 1761635465208
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e801aea321f46298cb0fc38a282f0a1
+run_name: traveling-sow-442
+run_uuid: 8e801aea321f46298cb0fc38a282f0a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761635463288
+status: 3
+tags: []
+user_id: shardendujha

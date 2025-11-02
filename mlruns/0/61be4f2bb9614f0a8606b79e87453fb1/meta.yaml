@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/61be4f2bb9614f0a8606b79e87453fb1/artifacts
+end_time: 1761578088260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61be4f2bb9614f0a8606b79e87453fb1
+run_name: zealous-ant-573
+run_uuid: 61be4f2bb9614f0a8606b79e87453fb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761578086256
+status: 3
+tags: []
+user_id: shardendujha

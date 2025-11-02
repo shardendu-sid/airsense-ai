@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/e78bd96f99944b46830474bd1e835676/artifacts
+end_time: 1762089926074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e78bd96f99944b46830474bd1e835676
+run_name: nervous-cub-704
+run_uuid: e78bd96f99944b46830474bd1e835676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762089923750
+status: 3
+tags: []
+user_id: shardendujha

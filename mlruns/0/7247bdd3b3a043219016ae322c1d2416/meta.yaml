@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/7247bdd3b3a043219016ae322c1d2416/artifacts
+end_time: 1761625446954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7247bdd3b3a043219016ae322c1d2416
+run_name: gregarious-foal-128
+run_uuid: 7247bdd3b3a043219016ae322c1d2416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761625445051
+status: 3
+tags: []
+user_id: shardendujha

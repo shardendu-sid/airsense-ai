@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/5c5ff0aab1ef41c09df4353a1774904a/artifacts
+end_time: 1762004980844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c5ff0aab1ef41c09df4353a1774904a
+run_name: bright-finch-739
+run_uuid: 5c5ff0aab1ef41c09df4353a1774904a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762004978903
+status: 3
+tags: []
+user_id: shardendujha

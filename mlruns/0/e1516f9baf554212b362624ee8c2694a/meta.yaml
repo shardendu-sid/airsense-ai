@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/e1516f9baf554212b362624ee8c2694a/artifacts
+end_time: 1761599946233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1516f9baf554212b362624ee8c2694a
+run_name: redolent-eel-414
+run_uuid: e1516f9baf554212b362624ee8c2694a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761599943989
+status: 3
+tags: []
+user_id: shardendujha

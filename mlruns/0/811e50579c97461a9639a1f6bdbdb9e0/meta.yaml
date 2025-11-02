@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/811e50579c97461a9639a1f6bdbdb9e0/artifacts
+end_time: 1761558960766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 811e50579c97461a9639a1f6bdbdb9e0
+run_name: peaceful-turtle-530
+run_uuid: 811e50579c97461a9639a1f6bdbdb9e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761558958860
+status: 3
+tags: []
+user_id: shardendujha

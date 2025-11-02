@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/eda2ac1349c94cb5a48083a3b6417194/artifacts
+end_time: 1761551681004
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eda2ac1349c94cb5a48083a3b6417194
+run_name: capable-rook-334
+run_uuid: eda2ac1349c94cb5a48083a3b6417194
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761551679110
+status: 3
+tags: []
+user_id: shardendujha

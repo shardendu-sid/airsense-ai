@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/55f987fbaf14403d9f42d3af2ae2d036/artifacts
+end_time: 1761618157381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55f987fbaf14403d9f42d3af2ae2d036
+run_name: carefree-panda-281
+run_uuid: 55f987fbaf14403d9f42d3af2ae2d036
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761618155213
+status: 3
+tags: []
+user_id: shardendujha

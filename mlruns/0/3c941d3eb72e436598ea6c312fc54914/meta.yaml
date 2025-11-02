@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/3c941d3eb72e436598ea6c312fc54914/artifacts
+end_time: 1742491483056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c941d3eb72e436598ea6c312fc54914
+run_name: bouncy-auk-303
+run_uuid: 3c941d3eb72e436598ea6c312fc54914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742491481488
+status: 3
+tags: []
+user_id: shardendujha

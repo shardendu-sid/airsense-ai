@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/7cf655b8643c4dc7a4adb8d5a590d676/artifacts
+end_time: 1761536197686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7cf655b8643c4dc7a4adb8d5a590d676
+run_name: languid-worm-621
+run_uuid: 7cf655b8643c4dc7a4adb8d5a590d676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761536195775
+status: 3
+tags: []
+user_id: shardendujha

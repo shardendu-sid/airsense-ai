@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/28e874cf802443638857c7b189a35138/artifacts
+end_time: 1761592661980
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28e874cf802443638857c7b189a35138
+run_name: nebulous-hare-431
+run_uuid: 28e874cf802443638857c7b189a35138
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761592660059
+status: 3
+tags: []
+user_id: shardendujha

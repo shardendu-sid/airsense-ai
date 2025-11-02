@@ -1,0 +1,33 @@
+artifact_path: temperature-prediction-model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.0
+is_signature_from_type_hint: false
+mlflow_version: 2.20.3
+model_size_bytes: 105753
+model_uuid: 5e86149112374364bb0962f32cdec6bf
+run_id: ac0de48fd7b64dd19f4d28378086ea55
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "temp", "required": true}, {"type": "double",
+    "name": "co2", "required": true}, {"type": "double", "name": "voc", "required":
+    true}, {"type": "double", "name": "pm25", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-10-27 09:55:56.918933'

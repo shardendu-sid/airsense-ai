@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/5e9fe1675ae54be880ad392601050494/artifacts
+end_time: 1762096043062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e9fe1675ae54be880ad392601050494
+run_name: sassy-stag-271
+run_uuid: 5e9fe1675ae54be880ad392601050494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762096040824
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/587f4a8b711049e1bcca92372abcf011/artifacts
+end_time: 1762088003842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 587f4a8b711049e1bcca92372abcf011
+run_name: intelligent-goose-14
+run_uuid: 587f4a8b711049e1bcca92372abcf011
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762088001590
+status: 3
+tags: []
+user_id: shardendujha

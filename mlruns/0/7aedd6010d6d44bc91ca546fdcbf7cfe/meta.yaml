@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/7aedd6010d6d44bc91ca546fdcbf7cfe/artifacts
+end_time: 1761509795755
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7aedd6010d6d44bc91ca546fdcbf7cfe
+run_name: sassy-calf-839
+run_uuid: 7aedd6010d6d44bc91ca546fdcbf7cfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761509793843
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/549da85a5619453f91968f42a3cf66e8/artifacts
+end_time: 1761536199639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 549da85a5619453f91968f42a3cf66e8
+run_name: calm-finch-698
+run_uuid: 549da85a5619453f91968f42a3cf66e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761536197715
+status: 3
+tags: []
+user_id: shardendujha

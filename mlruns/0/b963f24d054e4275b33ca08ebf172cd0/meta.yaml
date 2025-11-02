@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/b963f24d054e4275b33ca08ebf172cd0/artifacts
+end_time: 1761506146953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b963f24d054e4275b33ca08ebf172cd0
+run_name: debonair-frog-250
+run_uuid: b963f24d054e4275b33ca08ebf172cd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761506144736
+status: 3
+tags: []
+user_id: shardendujha

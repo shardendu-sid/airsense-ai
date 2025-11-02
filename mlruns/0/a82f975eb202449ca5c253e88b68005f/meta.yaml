@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a82f975eb202449ca5c253e88b68005f/artifacts
+end_time: 1761530732755
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a82f975eb202449ca5c253e88b68005f
+run_name: beautiful-fish-606
+run_uuid: a82f975eb202449ca5c253e88b68005f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761530730834
+status: 3
+tags: []
+user_id: shardendujha

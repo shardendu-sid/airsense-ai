@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/f019d21aafa046ce953ad689dcdadaa0/artifacts
+end_time: 1761552585538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f019d21aafa046ce953ad689dcdadaa0
+run_name: polite-worm-298
+run_uuid: f019d21aafa046ce953ad689dcdadaa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761552583585
+status: 3
+tags: []
+user_id: shardendujha

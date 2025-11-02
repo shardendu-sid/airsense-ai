@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>login</title>
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Sansita&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/login.css') }}">
+        
+    </head>
+    <body>
+        <!-- flash messages -->
+        {% for message in get_flashed_messages()%}
+            <div class="container alert alert-info">
+                <button type="button" class="close" data-dismiss="alert"></button>
+                {{ message }}
+
+            </div>
+        {% endfor %}
+        <div class="login-form">
+            <form id="login-form" action="/" method="POST">
+                <!-- CSRF Token -->
+                <!-- {{ form.csrf_token }} -->
+                {{ form.hidden_tag() }}
+                <h2 class="text-center">Login</h2>
+                <!-- <center>
+                    {% if messages %}
+                    
+                        {% for meg in messages %}
+                    
+                            <code> {{ msg }} </code>
+                        {% endfor %}
+                    
+                    {% endif %}
+                </center> -->
+                <div class="form-group">
+                    <label class="control-label" for="name"></label>
+                    <input type="text" class="form-control"  id="name" placeholder="Username" name="name" required="required">
+                </div>
+                <div class="form-group">
+                    <label class="control-label" for="password"></label>
+                    <input type="password" class="form-control" id="password" placeholder="Password" name="password" required="required">
+                </div>
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary btn-block">Login</button>
+                </div>
+                <div class="clearfix">
+                    <!-- <label class="pull-left checkbox-inline"><input type="checkbox"></label> -->
+                    <a href="#" class="pull-right"></a>
+                </div>       
+            </form>
+            <div>
+                <p style="color: black; font-weight: bold; text-align: center;">OTP password is : {{rand_pass}}</p>
+            </div>
+            <!-- <p class="text-center"><a href="{{ url_for('authentication.signup') }}">Signup</a></p>  Corrected redirection link -->
+        </div>
+        <div class="version">
+            <p>
+                Indoor Air Quality Through Home Automation version 0.1
+            </p>
+        </div>
+        <script src="" async defer></script>
+        
+    </body>
+</html>

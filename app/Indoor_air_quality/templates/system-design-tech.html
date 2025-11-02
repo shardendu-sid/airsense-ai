@@ -1,0 +1,68 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<link rel="stylesheet" href="static/css/system-design-tech.css">
+
+<div class="container">
+    <br><br>
+    <h2>Frontend</h2>
+    <br><br>
+    <p><strong>User Interface (UI):</strong></p>
+    <ul>
+        <li><strong>Technologies:</strong> HTML, CSS, Bootstrap, and JavaScript.</li>
+        <li><strong>Design:</strong> A clean and intuitive dashboard that displays real-time air quality data, historical trends, and alerts. It includes interactive charts created with JavaScript.</li>
+    </ul>
+
+    <p><strong>Data Visualization:</strong></p>
+    <ul>
+        <li><strong>Approach:</strong> Display data in various formats such as graphs, charts, and maps for easy interpretation.</li>
+        <li><strong>Tools:</strong> Advanced data visualization is achieved using tools like Matplotlib.</li>
+    </ul>
+
+    <p><strong>Notification System:</strong></p>
+    <ul>
+        <li>Functionality: Alerts users about device automation via email.</li>
+    </ul>
+
+    <p><strong>Accessibility and Responsiveness:</strong></p>
+    <ul>
+        <li>Compatibility: The application is designed to be accessible on various devices, including desktops, tablets, and smartphones, and conforms to web accessibility standards.</li>
+    </ul>
+    <br><br>
+    <h2>Backend</h2>
+    <br><br>
+    <p><strong>Programming Language and Framework:</strong></p>
+    <ul>
+        <li>Technology Used: Core Python and Flask are used for data analysis and backend development.</li>
+    </ul>
+
+    <p><strong>Database:</strong></p>
+    <ul>
+        <li>Structure: Three different data types are used to store sensor data and machine learning prediction data in CSV, JSON, and PostgreSQL containers through Raspberry Pi 4. CSV and JSON data are saved on an external hard drive connected to the Raspberry Pi.</li>
+    </ul>
+    <p><strong>Data Collection and Processing:</strong></p>
+    <ul>
+        <li>Procedure: The backend collects data from sensors, preprocesses it, and deploys a machine learning model for real-time predictions.
+        </li>
+    </ul>
+    <p><strong>Hosting:</strong></p>
+    <ul>
+        <li>Current Stage: Port forwarding is currently in use for testing application behavior across different networks. In the future, the plan is to use a personal domain with DNS and SSL certificates for enhanced security.</li>
+    </ul>
+    <p><strong>Security:</strong></p>
+    <ul>
+        <li>Protection: The entire network is secured with DPN (Deeper Connect Decentralized VPN), ensuring protection for all IoT devices and data.</li>
+    </ul>
+    <p><strong>Scalability:</strong></p>
+    <ul>
+        <li>Storage Capacity: A 500 GB external hard drive is currently used for data storage, with the option to scale up as needed.</li>
+    </ul>
+    <p><strong>Overall Architecture:</strong></p>
+    <ul>
+        <li>Data Flow: Sensors → Data Processing (Backend) → Database → Data Retrieval (API) → Data Visualization (Frontend).</li>
+        <li>Scalability and Reliability: Utilizing port forwarding, a public IP through a domain name with an SSL certificate, DPN, and expandable data storage capacity.</li>
+        <li>Security: Ensuring secure data transfer and storage, coupled with user authentication and authorization mechanisms through DPN.</li>
+    </ul>
+</div>
+
+{% endblock %}

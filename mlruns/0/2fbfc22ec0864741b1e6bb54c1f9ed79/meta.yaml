@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/2fbfc22ec0864741b1e6bb54c1f9ed79/artifacts
+end_time: 1762016502878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fbfc22ec0864741b1e6bb54c1f9ed79
+run_name: adaptable-slug-532
+run_uuid: 2fbfc22ec0864741b1e6bb54c1f9ed79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762016500438
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/865952058a374a9e9a6e66242d332bd7/artifacts
+end_time: 1761631822155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 865952058a374a9e9a6e66242d332bd7
+run_name: monumental-frog-812
+run_uuid: 865952058a374a9e9a6e66242d332bd7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761631820247
+status: 3
+tags: []
+user_id: shardendujha

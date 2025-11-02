@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/c3e4331ea66d42fc81e023c5bd030cb0/artifacts
+end_time: 1742491481466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3e4331ea66d42fc81e023c5bd030cb0
+run_name: illustrious-lamb-387
+run_uuid: c3e4331ea66d42fc81e023c5bd030cb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742491478953
+status: 3
+tags: []
+user_id: shardendujha

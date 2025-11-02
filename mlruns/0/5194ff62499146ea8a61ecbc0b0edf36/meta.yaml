@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/5194ff62499146ea8a61ecbc0b0edf36/artifacts
+end_time: 1761523449824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5194ff62499146ea8a61ecbc0b0edf36
+run_name: sneaky-crab-100
+run_uuid: 5194ff62499146ea8a61ecbc0b0edf36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761523447888
+status: 3
+tags: []
+user_id: shardendujha

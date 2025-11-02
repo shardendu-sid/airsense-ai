@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/2528b6ca04fa4b9886847db4c0ee755f/artifacts
+end_time: 1761556227294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2528b6ca04fa4b9886847db4c0ee755f
+run_name: fun-cow-778
+run_uuid: 2528b6ca04fa4b9886847db4c0ee755f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761556225389
+status: 3
+tags: []
+user_id: shardendujha

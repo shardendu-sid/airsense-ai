@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/8c839b82c81e4cd887ca8b1bc1d3ec88/artifacts
+end_time: 1761560779747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c839b82c81e4cd887ca8b1bc1d3ec88
+run_name: colorful-moose-597
+run_uuid: 8c839b82c81e4cd887ca8b1bc1d3ec88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761560777743
+status: 3
+tags: []
+user_id: shardendujha

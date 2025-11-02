@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/097251cb31354fe5af58379113e2681c/artifacts
+end_time: 1761610881442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 097251cb31354fe5af58379113e2681c
+run_name: nervous-yak-786
+run_uuid: 097251cb31354fe5af58379113e2681c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761610879525
+status: 3
+tags: []
+user_id: shardendujha

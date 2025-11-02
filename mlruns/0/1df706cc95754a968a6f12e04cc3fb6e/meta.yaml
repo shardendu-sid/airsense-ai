@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/1df706cc95754a968a6f12e04cc3fb6e/artifacts
+end_time: 1761567162185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1df706cc95754a968a6f12e04cc3fb6e
+run_name: nimble-lark-757
+run_uuid: 1df706cc95754a968a6f12e04cc3fb6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761567160294
+status: 3
+tags: []
+user_id: shardendujha

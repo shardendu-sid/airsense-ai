@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/2abfa95a3b5b490c9c908bb27b1cebcb/artifacts
+end_time: 1762015774706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2abfa95a3b5b490c9c908bb27b1cebcb
+run_name: bright-cow-5
+run_uuid: 2abfa95a3b5b490c9c908bb27b1cebcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762015772712
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/6c5141e98b644e89b283385e997c1ed5/artifacts
+end_time: 1761588105970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c5141e98b644e89b283385e997c1ed5
+run_name: caring-chimp-92
+run_uuid: 6c5141e98b644e89b283385e997c1ed5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761588104062
+status: 3
+tags: []
+user_id: shardendujha

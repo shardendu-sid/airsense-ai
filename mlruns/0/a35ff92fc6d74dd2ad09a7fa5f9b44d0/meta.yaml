@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a35ff92fc6d74dd2ad09a7fa5f9b44d0/artifacts
+end_time: 1761537106166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a35ff92fc6d74dd2ad09a7fa5f9b44d0
+run_name: amazing-swan-305
+run_uuid: a35ff92fc6d74dd2ad09a7fa5f9b44d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761537104264
+status: 3
+tags: []
+user_id: shardendujha

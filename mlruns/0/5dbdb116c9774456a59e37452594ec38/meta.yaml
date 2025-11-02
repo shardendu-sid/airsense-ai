@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/5dbdb116c9774456a59e37452594ec38/artifacts
+end_time: 1761501598525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5dbdb116c9774456a59e37452594ec38
+run_name: stately-ray-83
+run_uuid: 5dbdb116c9774456a59e37452594ec38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761501596522
+status: 3
+tags: []
+user_id: shardendujha

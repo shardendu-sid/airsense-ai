@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/db54b0d5237c4644b6b8fd5c0839b899/artifacts
+end_time: 1762015768641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db54b0d5237c4644b6b8fd5c0839b899
+run_name: tasteful-gnat-751
+run_uuid: db54b0d5237c4644b6b8fd5c0839b899
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762015766689
+status: 3
+tags: []
+user_id: shardendujha

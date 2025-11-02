@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/fc1d359d8ccb4d6d9f5bcd1f737754a8/artifacts
+end_time: 1761527087423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc1d359d8ccb4d6d9f5bcd1f737754a8
+run_name: whimsical-hound-13
+run_uuid: fc1d359d8ccb4d6d9f5bcd1f737754a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761527085186
+status: 3
+tags: []
+user_id: shardendujha

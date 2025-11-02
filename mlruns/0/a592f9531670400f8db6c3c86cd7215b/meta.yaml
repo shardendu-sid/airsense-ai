@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a592f9531670400f8db6c3c86cd7215b/artifacts
+end_time: 1761617252682
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a592f9531670400f8db6c3c86cd7215b
+run_name: skillful-pug-436
+run_uuid: a592f9531670400f8db6c3c86cd7215b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761617250774
+status: 3
+tags: []
+user_id: shardendujha

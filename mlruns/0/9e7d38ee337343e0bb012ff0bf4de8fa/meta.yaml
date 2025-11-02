@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/9e7d38ee337343e0bb012ff0bf4de8fa/artifacts
+end_time: 1761618165202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e7d38ee337343e0bb012ff0bf4de8fa
+run_name: wise-lark-502
+run_uuid: 9e7d38ee337343e0bb012ff0bf4de8fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761618163281
+status: 3
+tags: []
+user_id: shardendujha

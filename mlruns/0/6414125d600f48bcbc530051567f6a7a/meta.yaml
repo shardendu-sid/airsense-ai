@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/6414125d600f48bcbc530051567f6a7a/artifacts
+end_time: 1761582635287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6414125d600f48bcbc530051567f6a7a
+run_name: charming-crow-924
+run_uuid: 6414125d600f48bcbc530051567f6a7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761582632986
+status: 3
+tags: []
+user_id: shardendujha

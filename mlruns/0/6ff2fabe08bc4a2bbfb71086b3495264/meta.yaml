@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/6ff2fabe08bc4a2bbfb71086b3495264/artifacts
+end_time: 1761502507025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ff2fabe08bc4a2bbfb71086b3495264
+run_name: unruly-stag-661
+run_uuid: 6ff2fabe08bc4a2bbfb71086b3495264
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761502505111
+status: 3
+tags: []
+user_id: shardendujha

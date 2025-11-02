@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/b3d60b7e1c5943e4bfaec0f816e0f798/artifacts
+end_time: 1761557135931
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3d60b7e1c5943e4bfaec0f816e0f798
+run_name: sincere-lamb-777
+run_uuid: b3d60b7e1c5943e4bfaec0f816e0f798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761557133671
+status: 3
+tags: []
+user_id: shardendujha

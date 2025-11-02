@@ -1,0 +1,71 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+    <h1>Air Cooler Connection Details</h1>
+
+    <table id="device-info-table">
+        <thead>
+            <tr>
+                <th>Attribute</th>
+                <th>Value</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in device_info %}
+                <tr>
+                    <td>Label</td>
+                    <td>{{ item.label }}</td>
+                </tr>
+                <tr>
+                    <td>Manufacturer Name</td>
+                    <td>{{ item.manufacturerName }}</td>
+                </tr>
+                <tr>
+                    <td>Type</td>
+                    <td>{{ item.type }}</td>
+                </tr>
+                <tr>
+                    <td>Create Time</td>
+                    <td>{{ item.createTime }}</td>
+                </tr>
+            {% endfor %}
+            <tr>
+                <td>Switch Status</td>
+                <td>{{ switch_status }}</td>
+            </tr>
+            <tr>
+                <td>Switch Timestamp</td>
+                <td>{{ switch_timestamp }}</td>
+            </tr>
+        </tbody>
+    </table>
+    <h1>Air quality Sensor Integration Through Tapo Smart Plug and Air Cooler on Rapberry Pi 4</h1>
+    
+    <div class="flex-container">
+        
+        <div class="tapo-smart-image">
+            <p style="font-weight: bold;font-size: 10px; text-align: center; color:#488A99 ;">DPN</p>
+            <img src="/static/img/deeper_connect_mini.png" alt="raspberrypi">
+        </div>
+        <div class="tapo-smart-image">
+            <p style="font-weight: bold;font-size: 10px; text-align: center; color:#488A99 ;">IoT IAQ Sensor</p>
+            <img src="/static/img/architecture.png" alt="raspberrypi">
+        </div>
+
+        <div class="tapo-smart-image">
+            <p style="font-weight: bold; text-align: center; font-size: 10px; color:#488A99 ;">Raspberry Pi 4</p>
+            <img src="/static/img/raspberrypi.png" alt="raspberrypi">
+        </div>
+        <div class="tapo-smart-image">
+            <p style="font-weight: bold; text-align: center; font-size: 10px; color:#488A99 ;">Smart Plug</p>
+            <img src="/static/img/Tapo-P100_EU_1.0_.png" alt="tapo_plug">
+        </div>
+        <div class="tapo-smart-image">
+            <p style="font-weight: bold; text-align: center; font-size: 10px; color:#488A99 ;">Air Cooler</p>
+            <img src="/static/img/nedis.png" alt="air_cooler">
+        </div>
+
+    </div>
+
+    
+{% endblock %}

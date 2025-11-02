@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/113db6f317974298b27f9dd1cb3186ef/artifacts
+end_time: 1761570803816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 113db6f317974298b27f9dd1cb3186ef
+run_name: unique-sow-360
+run_uuid: 113db6f317974298b27f9dd1cb3186ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761570801889
+status: 3
+tags: []
+user_id: shardendujha

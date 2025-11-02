@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/b599d49f97a546f59c47dbef51b009eb/artifacts
+end_time: 1761612698424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b599d49f97a546f59c47dbef51b009eb
+run_name: nosy-midge-670
+run_uuid: b599d49f97a546f59c47dbef51b009eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761612696515
+status: 3
+tags: []
+user_id: shardendujha

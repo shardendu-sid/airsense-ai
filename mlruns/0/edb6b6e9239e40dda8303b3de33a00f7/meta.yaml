@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/edb6b6e9239e40dda8303b3de33a00f7/artifacts
+end_time: 1761599952039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edb6b6e9239e40dda8303b3de33a00f7
+run_name: carefree-lark-965
+run_uuid: edb6b6e9239e40dda8303b3de33a00f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761599950129
+status: 3
+tags: []
+user_id: shardendujha

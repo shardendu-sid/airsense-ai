@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/23310f678bc94d30a317ac3046ad9a7a/artifacts
+end_time: 1762025921039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23310f678bc94d30a317ac3046ad9a7a
+run_name: bald-shoat-653
+run_uuid: 23310f678bc94d30a317ac3046ad9a7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762025919086
+status: 3
+tags: []
+user_id: shardendujha

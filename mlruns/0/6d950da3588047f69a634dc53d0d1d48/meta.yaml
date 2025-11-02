@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/6d950da3588047f69a634dc53d0d1d48/artifacts
+end_time: 1761505234569
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d950da3588047f69a634dc53d0d1d48
+run_name: vaunted-pug-453
+run_uuid: 6d950da3588047f69a634dc53d0d1d48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761505232320
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/39af3fa3aafd43098941f6fc83991811/artifacts
+end_time: 1761610873683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39af3fa3aafd43098941f6fc83991811
+run_name: intelligent-pug-770
+run_uuid: 39af3fa3aafd43098941f6fc83991811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761610871443
+status: 3
+tags: []
+user_id: shardendujha

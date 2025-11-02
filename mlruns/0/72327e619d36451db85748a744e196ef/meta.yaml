@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/72327e619d36451db85748a744e196ef/artifacts
+end_time: 1761563518566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72327e619d36451db85748a744e196ef
+run_name: beautiful-shoat-616
+run_uuid: 72327e619d36451db85748a744e196ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761563516596
+status: 3
+tags: []
+user_id: shardendujha

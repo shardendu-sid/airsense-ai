@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/6fd7dd8c3a394789b242417eba483884/artifacts
+end_time: 1761614517457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fd7dd8c3a394789b242417eba483884
+run_name: adaptable-worm-780
+run_uuid: 6fd7dd8c3a394789b242417eba483884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761614515561
+status: 3
+tags: []
+user_id: shardendujha

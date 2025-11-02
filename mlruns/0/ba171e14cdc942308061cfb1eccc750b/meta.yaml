@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/ba171e14cdc942308061cfb1eccc750b/artifacts
+end_time: 1761519804463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba171e14cdc942308061cfb1eccc750b
+run_name: bouncy-hound-436
+run_uuid: ba171e14cdc942308061cfb1eccc750b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761519802233
+status: 3
+tags: []
+user_id: shardendujha

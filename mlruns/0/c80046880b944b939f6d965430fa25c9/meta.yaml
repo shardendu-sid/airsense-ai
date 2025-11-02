@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/c80046880b944b939f6d965430fa25c9/artifacts
+end_time: 1762019880109
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c80046880b944b939f6d965430fa25c9
+run_name: mercurial-asp-116
+run_uuid: c80046880b944b939f6d965430fa25c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762019878158
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/84dd4b249eac444084e0b3f0ad3eb1d6/artifacts
+end_time: 1762026059145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84dd4b249eac444084e0b3f0ad3eb1d6
+run_name: traveling-grouse-950
+run_uuid: 84dd4b249eac444084e0b3f0ad3eb1d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762026056709
+status: 3
+tags: []
+user_id: shardendujha

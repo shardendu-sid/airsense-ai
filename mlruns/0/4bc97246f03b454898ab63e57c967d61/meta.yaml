@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/4bc97246f03b454898ab63e57c967d61/artifacts
+end_time: 1762086547903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4bc97246f03b454898ab63e57c967d61
+run_name: resilient-mink-919
+run_uuid: 4bc97246f03b454898ab63e57c967d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762086545712
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/71aaef072ff34b2b838a216d87a4a9ac/artifacts
+end_time: 1761510702759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 71aaef072ff34b2b838a216d87a4a9ac
+run_name: clean-mare-858
+run_uuid: 71aaef072ff34b2b838a216d87a4a9ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761510700535
+status: 3
+tags: []
+user_id: shardendujha

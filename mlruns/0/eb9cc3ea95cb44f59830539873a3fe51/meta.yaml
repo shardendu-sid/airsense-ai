@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/eb9cc3ea95cb44f59830539873a3fe51/artifacts
+end_time: 1761596302077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb9cc3ea95cb44f59830539873a3fe51
+run_name: wistful-cat-820
+run_uuid: eb9cc3ea95cb44f59830539873a3fe51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761596300164
+status: 3
+tags: []
+user_id: shardendujha

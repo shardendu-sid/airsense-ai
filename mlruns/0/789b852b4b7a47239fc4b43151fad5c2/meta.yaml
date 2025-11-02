@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/789b852b4b7a47239fc4b43151fad5c2/artifacts
+end_time: 1762026063281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 789b852b4b7a47239fc4b43151fad5c2
+run_name: fun-turtle-158
+run_uuid: 789b852b4b7a47239fc4b43151fad5c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762026061233
+status: 3
+tags: []
+user_id: shardendujha

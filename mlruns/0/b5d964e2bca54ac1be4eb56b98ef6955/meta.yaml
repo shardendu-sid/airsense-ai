@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/b5d964e2bca54ac1be4eb56b98ef6955/artifacts
+end_time: 1761566245649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5d964e2bca54ac1be4eb56b98ef6955
+run_name: defiant-toad-513
+run_uuid: b5d964e2bca54ac1be4eb56b98ef6955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761566243739
+status: 3
+tags: []
+user_id: shardendujha

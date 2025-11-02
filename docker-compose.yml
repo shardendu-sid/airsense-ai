@@ -1,0 +1,42 @@
+version: "3.8"
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: home_automation_backend
+    environment:
+      - FLASK_ENV=${FLASK_ENV}         # This will use the value from the .env file
+      - CONTAINER_IP=${CONTAINER_IP}         # Another environment variable for your sensor
+      - PORT=${PORT}             # Refers to the value from the .env file
+      - DATABASE=${DATABASE}
+      - USER=${USER}
+      - PASS_WORD=${PASS_WORD}
+      - API_LINK=${API_LINK}
+      - 
+  
+    volumes:
+      - .:/Home_Automation
+    ports:
+      - "5000:5000"
+    command: python app_main.py
+    depends_on:
+      - postgres
+
+  postgres:
+    image: postgres:13
+    container_name: home_automation_postgres
+    env_file:
+      - .env  
+    environment:
+      POSTGRES_DB=${DB_NAME}
+      POSTGRES_USER=${DB_USER}
+      POSTGRES_PASSWORD=${DB_PASSWORD}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:

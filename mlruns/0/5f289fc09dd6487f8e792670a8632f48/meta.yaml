@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/5f289fc09dd6487f8e792670a8632f48/artifacts
+end_time: 1761577173890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f289fc09dd6487f8e792670a8632f48
+run_name: exultant-mole-942
+run_uuid: 5f289fc09dd6487f8e792670a8632f48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761577171938
+status: 3
+tags: []
+user_id: shardendujha

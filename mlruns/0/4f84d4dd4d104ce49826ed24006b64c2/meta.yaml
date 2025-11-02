@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/4f84d4dd4d104ce49826ed24006b64c2/artifacts
+end_time: 1761634552764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f84d4dd4d104ce49826ed24006b64c2
+run_name: trusting-vole-908
+run_uuid: 4f84d4dd4d104ce49826ed24006b64c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761634550796
+status: 3
+tags: []
+user_id: shardendujha

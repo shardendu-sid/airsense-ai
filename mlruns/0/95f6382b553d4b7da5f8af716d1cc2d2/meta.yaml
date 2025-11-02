@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/95f6382b553d4b7da5f8af716d1cc2d2/artifacts
+end_time: 1761501596493
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95f6382b553d4b7da5f8af716d1cc2d2
+run_name: unruly-sponge-254
+run_uuid: 95f6382b553d4b7da5f8af716d1cc2d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761501594500
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/4b723cc41aa64175a1359138f238faaf/artifacts
+end_time: 1762004976764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b723cc41aa64175a1359138f238faaf
+run_name: dashing-fly-711
+run_uuid: 4b723cc41aa64175a1359138f238faaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762004974834
+status: 3
+tags: []
+user_id: shardendujha

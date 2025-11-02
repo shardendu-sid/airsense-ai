@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/c96212857d2c4590a1af9c7317a037df/artifacts
+end_time: 1761620894359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c96212857d2c4590a1af9c7317a037df
+run_name: redolent-carp-487
+run_uuid: c96212857d2c4590a1af9c7317a037df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761620892445
+status: 3
+tags: []
+user_id: shardendujha

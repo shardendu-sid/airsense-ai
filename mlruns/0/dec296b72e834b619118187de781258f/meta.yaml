@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/dec296b72e834b619118187de781258f/artifacts
+end_time: 1762025919056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dec296b72e834b619118187de781258f
+run_name: dazzling-lynx-373
+run_uuid: dec296b72e834b619118187de781258f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762025917134
+status: 3
+tags: []
+user_id: shardendujha

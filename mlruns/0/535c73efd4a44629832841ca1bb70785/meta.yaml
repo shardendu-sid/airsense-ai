@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/535c73efd4a44629832841ca1bb70785/artifacts
+end_time: 1761542567102
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 535c73efd4a44629832841ca1bb70785
+run_name: persistent-panda-490
+run_uuid: 535c73efd4a44629832841ca1bb70785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761542564805
+status: 3
+tags: []
+user_id: shardendujha

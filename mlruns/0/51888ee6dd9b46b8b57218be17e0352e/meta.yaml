@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/51888ee6dd9b46b8b57218be17e0352e/artifacts
+end_time: 1761634548822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51888ee6dd9b46b8b57218be17e0352e
+run_name: incongruous-wolf-725
+run_uuid: 51888ee6dd9b46b8b57218be17e0352e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761634546892
+status: 3
+tags: []
+user_id: shardendujha

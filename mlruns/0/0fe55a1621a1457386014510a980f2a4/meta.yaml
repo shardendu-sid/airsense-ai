@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/0fe55a1621a1457386014510a980f2a4/artifacts
+end_time: 1761617248812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0fe55a1621a1457386014510a980f2a4
+run_name: adaptable-shrike-40
+run_uuid: 0fe55a1621a1457386014510a980f2a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761617246881
+status: 3
+tags: []
+user_id: shardendujha

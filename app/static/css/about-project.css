@@ -1,0 +1,54 @@
+/* Your existing styles */
+/* .pdf-container {
+    position: absolute;
+    top: 5%;
+    left: 8%;
+    right: 8%;
+    bottom: 5%;
+    border: 1px solid black;
+}
+
+.pdf-viewer {
+    width: 100%;
+    height: 100%;
+} */
+
+/* Media queries for laptop screens */
+/* @media screen and (min-width: 768px) and (max-width: 1366px) {
+    .pdf-container {
+        top: 6%;
+        left: 10%;
+        right: 12%;
+        bottom: 8%;
+    }
+} */
+
+/* Media queries for mobile screens */
+/* @media screen and (max-width: 767px) {
+    .pdf-container {
+        top: 80%;
+        left: 10%;
+        right: 10%;
+        bottom: 5%;
+    }
+} */
+
+ .project_design {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}

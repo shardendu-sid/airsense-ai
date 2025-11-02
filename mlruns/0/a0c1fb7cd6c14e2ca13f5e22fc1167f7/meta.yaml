@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a0c1fb7cd6c14e2ca13f5e22fc1167f7/artifacts
+end_time: 1761629088872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0c1fb7cd6c14e2ca13f5e22fc1167f7
+run_name: industrious-gnu-50
+run_uuid: a0c1fb7cd6c14e2ca13f5e22fc1167f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761629086949
+status: 3
+tags: []
+user_id: shardendujha

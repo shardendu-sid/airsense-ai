@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/e083ae17cd7f4bf28052073b9a6996fa/artifacts
+end_time: 1761530734700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e083ae17cd7f4bf28052073b9a6996fa
+run_name: calm-ape-93
+run_uuid: e083ae17cd7f4bf28052073b9a6996fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761530732783
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/cb1ebed9e19944c1ad90441003990a08/artifacts
+end_time: 1761562601328
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb1ebed9e19944c1ad90441003990a08
+run_name: youthful-dove-242
+run_uuid: cb1ebed9e19944c1ad90441003990a08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761562599248
+status: 3
+tags: []
+user_id: shardendujha

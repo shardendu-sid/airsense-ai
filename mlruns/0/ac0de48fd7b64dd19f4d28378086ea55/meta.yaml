@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/ac0de48fd7b64dd19f4d28378086ea55/artifacts
+end_time: 1761558958830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac0de48fd7b64dd19f4d28378086ea55
+run_name: righteous-shad-629
+run_uuid: ac0de48fd7b64dd19f4d28378086ea55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761558956909
+status: 3
+tags: []
+user_id: shardendujha

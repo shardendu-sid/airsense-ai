@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/f0944573f2924e45b6984662a0a8c982/artifacts
+end_time: 1761609054810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0944573f2924e45b6984662a0a8c982
+run_name: crawling-gull-910
+run_uuid: f0944573f2924e45b6984662a0a8c982
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761609052900
+status: 3
+tags: []
+user_id: shardendujha

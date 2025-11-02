@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/2786eaae1c2a4de4a5014d4b5651d111/artifacts
+end_time: 1761604508414
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2786eaae1c2a4de4a5014d4b5651d111
+run_name: burly-cub-717
+run_uuid: 2786eaae1c2a4de4a5014d4b5651d111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761604506484
+status: 3
+tags: []
+user_id: shardendujha

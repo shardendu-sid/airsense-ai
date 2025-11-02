@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/5a00549fb3a6407c925e8b15eaf923c7/artifacts
+end_time: 1762096038386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5a00549fb3a6407c925e8b15eaf923c7
+run_name: delightful-smelt-961
+run_uuid: 5a00549fb3a6407c925e8b15eaf923c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762096035057
+status: 3
+tags: []
+user_id: shardendujha

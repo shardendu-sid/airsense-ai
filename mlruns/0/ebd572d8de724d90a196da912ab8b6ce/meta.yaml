@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/ebd572d8de724d90a196da912ab8b6ce/artifacts
+end_time: 1762025915025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebd572d8de724d90a196da912ab8b6ce
+run_name: sneaky-goat-941
+run_uuid: ebd572d8de724d90a196da912ab8b6ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762025913043
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/09ccbfcf81cb443c9459ed6ac4f02fe0/artifacts
+end_time: 1761622713384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09ccbfcf81cb443c9459ed6ac4f02fe0
+run_name: silent-wasp-536
+run_uuid: 09ccbfcf81cb443c9459ed6ac4f02fe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761622711455
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/4d4ad915c5dd4b09be1443364e8a572c/artifacts
+end_time: 1761504329942
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d4ad915c5dd4b09be1443364e8a572c
+run_name: resilient-shark-15
+run_uuid: 4d4ad915c5dd4b09be1443364e8a572c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761504327925
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/6061bf7e2e09472f8d716ec3950da994/artifacts
+end_time: 1761555320849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6061bf7e2e09472f8d716ec3950da994
+run_name: capable-toad-753
+run_uuid: 6061bf7e2e09472f8d716ec3950da994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761555318870
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/5ac586f06a95428bb6f84bf8362e451b/artifacts
+end_time: 1761626351524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ac586f06a95428bb6f84bf8362e451b
+run_name: painted-croc-657
+run_uuid: 5ac586f06a95428bb6f84bf8362e451b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761626349274
+status: 3
+tags: []
+user_id: shardendujha

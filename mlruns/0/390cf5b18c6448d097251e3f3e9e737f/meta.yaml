@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/390cf5b18c6448d097251e3f3e9e737f/artifacts
+end_time: 1761528915937
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 390cf5b18c6448d097251e3f3e9e737f
+run_name: calm-turtle-439
+run_uuid: 390cf5b18c6448d097251e3f3e9e737f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761528914017
+status: 3
+tags: []
+user_id: shardendujha

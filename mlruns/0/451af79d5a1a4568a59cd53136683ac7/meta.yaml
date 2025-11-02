@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/451af79d5a1a4568a59cd53136683ac7/artifacts
+end_time: 1761640928505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 451af79d5a1a4568a59cd53136683ac7
+run_name: amazing-boar-502
+run_uuid: 451af79d5a1a4568a59cd53136683ac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761640926603
+status: 3
+tags: []
+user_id: shardendujha

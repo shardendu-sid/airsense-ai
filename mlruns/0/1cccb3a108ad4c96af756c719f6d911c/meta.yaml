@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/1cccb3a108ad4c96af756c719f6d911c/artifacts
+end_time: 1761586278940
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cccb3a108ad4c96af756c719f6d911c
+run_name: learned-stag-569
+run_uuid: 1cccb3a108ad4c96af756c719f6d911c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761586275852
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/04d7c3e7fe4245c5bee2eae4ed2c52e7/artifacts
+end_time: 1761590843117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04d7c3e7fe4245c5bee2eae4ed2c52e7
+run_name: rumbling-hen-750
+run_uuid: 04d7c3e7fe4245c5bee2eae4ed2c52e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761590841197
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/020a312c648a4c4f8f5d7a0e4af167df/artifacts
+end_time: 1761638195048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 020a312c648a4c4f8f5d7a0e4af167df
+run_name: defiant-asp-562
+run_uuid: 020a312c648a4c4f8f5d7a0e4af167df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761638193111
+status: 3
+tags: []
+user_id: shardendujha

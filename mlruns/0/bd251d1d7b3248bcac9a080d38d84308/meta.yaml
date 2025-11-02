@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/bd251d1d7b3248bcac9a080d38d84308/artifacts
+end_time: 1761512521524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd251d1d7b3248bcac9a080d38d84308
+run_name: casual-steed-257
+run_uuid: bd251d1d7b3248bcac9a080d38d84308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761512519210
+status: 3
+tags: []
+user_id: shardendujha

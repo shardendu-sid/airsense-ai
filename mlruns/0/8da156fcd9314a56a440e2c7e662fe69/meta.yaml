@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/8da156fcd9314a56a440e2c7e662fe69/artifacts
+end_time: 1761503418035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8da156fcd9314a56a440e2c7e662fe69
+run_name: redolent-shad-347
+run_uuid: 8da156fcd9314a56a440e2c7e662fe69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761503416050
+status: 3
+tags: []
+user_id: shardendujha

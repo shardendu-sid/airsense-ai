@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/dedccc252b714cdc9712703a49be3a4a/artifacts
+end_time: 1761524364066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dedccc252b714cdc9712703a49be3a4a
+run_name: beautiful-ray-825
+run_uuid: dedccc252b714cdc9712703a49be3a4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761524362179
+status: 3
+tags: []
+user_id: shardendujha

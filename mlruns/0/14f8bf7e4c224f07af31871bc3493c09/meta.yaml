@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/14f8bf7e4c224f07af31871bc3493c09/artifacts
+end_time: 1761613610860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14f8bf7e4c224f07af31871bc3493c09
+run_name: capable-ape-996
+run_uuid: 14f8bf7e4c224f07af31871bc3493c09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761613608922
+status: 3
+tags: []
+user_id: shardendujha

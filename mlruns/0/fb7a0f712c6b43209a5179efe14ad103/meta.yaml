@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/fb7a0f712c6b43209a5179efe14ad103/artifacts
+end_time: 1761590839167
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb7a0f712c6b43209a5179efe14ad103
+run_name: painted-seal-846
+run_uuid: fb7a0f712c6b43209a5179efe14ad103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761590837267
+status: 3
+tags: []
+user_id: shardendujha

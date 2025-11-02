@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/d8c3701646ef48e19972f265cf3bc828/artifacts
+end_time: 1761636371842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8c3701646ef48e19972f265cf3bc828
+run_name: adorable-wasp-212
+run_uuid: d8c3701646ef48e19972f265cf3bc828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761636369935
+status: 3
+tags: []
+user_id: shardendujha

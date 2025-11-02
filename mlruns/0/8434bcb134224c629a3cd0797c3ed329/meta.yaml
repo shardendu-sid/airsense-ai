@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/8434bcb134224c629a3cd0797c3ed329/artifacts
+end_time: 1761604500582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8434bcb134224c629a3cd0797c3ed329
+run_name: delightful-frog-556
+run_uuid: 8434bcb134224c629a3cd0797c3ed329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761604498314
+status: 3
+tags: []
+user_id: shardendujha

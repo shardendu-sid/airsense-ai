@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/7d1cdddd5249465e810ee959a03577e8/artifacts
+end_time: 1762089008805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d1cdddd5249465e810ee959a03577e8
+run_name: masked-chimp-503
+run_uuid: 7d1cdddd5249465e810ee959a03577e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762089005343
+status: 3
+tags: []
+user_id: shardendujha

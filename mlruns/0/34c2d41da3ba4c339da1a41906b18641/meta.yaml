@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/34c2d41da3ba4c339da1a41906b18641/artifacts
+end_time: 1742491484638
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34c2d41da3ba4c339da1a41906b18641
+run_name: bold-hen-116
+run_uuid: 34c2d41da3ba4c339da1a41906b18641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742491483133
+status: 3
+tags: []
+user_id: shardendujha

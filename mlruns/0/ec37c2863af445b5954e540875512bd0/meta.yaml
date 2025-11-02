@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/ec37c2863af445b5954e540875512bd0/artifacts
+end_time: 1761517079272
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec37c2863af445b5954e540875512bd0
+run_name: unique-squid-403
+run_uuid: ec37c2863af445b5954e540875512bd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761517077349
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/14d6a0144ae24568ad833a1b54d3bc53/artifacts
+end_time: 1762087125990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14d6a0144ae24568ad833a1b54d3bc53
+run_name: flawless-squid-206
+run_uuid: 14d6a0144ae24568ad833a1b54d3bc53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762087123934
+status: 3
+tags: []
+user_id: shardendujha

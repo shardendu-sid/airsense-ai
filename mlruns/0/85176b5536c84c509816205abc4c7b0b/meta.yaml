@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/85176b5536c84c509816205abc4c7b0b/artifacts
+end_time: 1742403195063
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85176b5536c84c509816205abc4c7b0b
+run_name: fortunate-moose-986
+run_uuid: 85176b5536c84c509816205abc4c7b0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742403192396
+status: 3
+tags: []
+user_id: shardendujha

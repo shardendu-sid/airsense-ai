@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/d518237d547b4800b1fa10d19c4aade6/artifacts
+end_time: 1761609052874
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d518237d547b4800b1fa10d19c4aade6
+run_name: bald-newt-484
+run_uuid: d518237d547b4800b1fa10d19c4aade6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761609050638
+status: 3
+tags: []
+user_id: shardendujha

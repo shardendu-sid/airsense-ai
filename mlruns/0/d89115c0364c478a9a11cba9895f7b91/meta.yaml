@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/d89115c0364c478a9a11cba9895f7b91/artifacts
+end_time: 1761541658315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d89115c0364c478a9a11cba9895f7b91
+run_name: defiant-stoat-89
+run_uuid: d89115c0364c478a9a11cba9895f7b91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761541656393
+status: 3
+tags: []
+user_id: shardendujha

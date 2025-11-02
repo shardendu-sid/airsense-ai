@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/944025ffc7aa4982a59056aadf23be3b/artifacts
+end_time: 1762089923720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 944025ffc7aa4982a59056aadf23be3b
+run_name: learned-dolphin-666
+run_uuid: 944025ffc7aa4982a59056aadf23be3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762089921703
+status: 3
+tags: []
+user_id: shardendujha

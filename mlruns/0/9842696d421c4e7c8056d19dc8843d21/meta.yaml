@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/9842696d421c4e7c8056d19dc8843d21/artifacts
+end_time: 1761572616957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9842696d421c4e7c8056d19dc8843d21
+run_name: luxuriant-dog-328
+run_uuid: 9842696d421c4e7c8056d19dc8843d21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761572614661
+status: 3
+tags: []
+user_id: shardendujha

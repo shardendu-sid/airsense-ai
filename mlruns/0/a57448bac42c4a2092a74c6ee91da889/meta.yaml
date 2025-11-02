@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a57448bac42c4a2092a74c6ee91da889/artifacts
+end_time: 1762086902215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a57448bac42c4a2092a74c6ee91da889
+run_name: enthused-midge-288
+run_uuid: a57448bac42c4a2092a74c6ee91da889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762086899903
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/57fd585c75734133924b1dc0052e1008/artifacts
+end_time: 1761602685624
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57fd585c75734133924b1dc0052e1008
+run_name: nosy-sheep-17
+run_uuid: 57fd585c75734133924b1dc0052e1008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761602683713
+status: 3
+tags: []
+user_id: shardendujha

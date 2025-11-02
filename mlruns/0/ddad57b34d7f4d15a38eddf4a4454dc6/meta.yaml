@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/ddad57b34d7f4d15a38eddf4a4454dc6/artifacts
+end_time: 1742403202176
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ddad57b34d7f4d15a38eddf4a4454dc6
+run_name: silent-gnu-743
+run_uuid: ddad57b34d7f4d15a38eddf4a4454dc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742403200583
+status: 3
+tags: []
+user_id: shardendujha

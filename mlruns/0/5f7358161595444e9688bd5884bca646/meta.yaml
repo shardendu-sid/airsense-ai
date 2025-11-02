@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/5f7358161595444e9688bd5884bca646/artifacts
+end_time: 1762090559178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f7358161595444e9688bd5884bca646
+run_name: thoughtful-koi-753
+run_uuid: 5f7358161595444e9688bd5884bca646
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762090556945
+status: 3
+tags: []
+user_id: shardendujha

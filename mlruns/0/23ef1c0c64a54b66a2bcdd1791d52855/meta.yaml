@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/23ef1c0c64a54b66a2bcdd1791d52855/artifacts
+end_time: 1761610879497
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23ef1c0c64a54b66a2bcdd1791d52855
+run_name: blushing-whale-916
+run_uuid: 23ef1c0c64a54b66a2bcdd1791d52855
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761610877592
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/da22b36a1cf849d4a453d101986a7c5c/artifacts
+end_time: 1762019878135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da22b36a1cf849d4a453d101986a7c5c
+run_name: useful-stoat-349
+run_uuid: da22b36a1cf849d4a453d101986a7c5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762019876195
+status: 3
+tags: []
+user_id: shardendujha

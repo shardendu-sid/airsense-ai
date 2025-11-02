@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/d5b68f30ea6a48bea42820df969544e4/artifacts
+end_time: 1761615426013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5b68f30ea6a48bea42820df969544e4
+run_name: enchanting-snipe-779
+run_uuid: d5b68f30ea6a48bea42820df969544e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761615423747
+status: 3
+tags: []
+user_id: shardendujha

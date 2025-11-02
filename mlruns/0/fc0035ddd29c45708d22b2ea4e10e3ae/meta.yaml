@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/fc0035ddd29c45708d22b2ea4e10e3ae/artifacts
+end_time: 1761605416900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc0035ddd29c45708d22b2ea4e10e3ae
+run_name: masked-mole-47
+run_uuid: fc0035ddd29c45708d22b2ea4e10e3ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761605414914
+status: 3
+tags: []
+user_id: shardendujha

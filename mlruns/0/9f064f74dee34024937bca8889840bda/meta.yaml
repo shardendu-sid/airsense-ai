@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/9f064f74dee34024937bca8889840bda/artifacts
+end_time: 1761577175850
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f064f74dee34024937bca8889840bda
+run_name: flawless-lamb-541
+run_uuid: 9f064f74dee34024937bca8889840bda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761577173912
+status: 3
+tags: []
+user_id: shardendujha

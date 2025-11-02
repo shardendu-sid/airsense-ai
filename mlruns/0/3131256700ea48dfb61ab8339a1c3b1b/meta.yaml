@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/3131256700ea48dfb61ab8339a1c3b1b/artifacts
+end_time: 1762019882184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3131256700ea48dfb61ab8339a1c3b1b
+run_name: melodic-rook-961
+run_uuid: 3131256700ea48dfb61ab8339a1c3b1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762019880234
+status: 3
+tags: []
+user_id: shardendujha

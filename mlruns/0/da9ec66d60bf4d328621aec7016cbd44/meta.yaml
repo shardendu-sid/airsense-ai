@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/da9ec66d60bf4d328621aec7016cbd44/artifacts
+end_time: 1742402258146
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da9ec66d60bf4d328621aec7016cbd44
+run_name: intrigued-bear-343
+run_uuid: da9ec66d60bf4d328621aec7016cbd44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742402256610
+status: 3
+tags: []
+user_id: shardendujha

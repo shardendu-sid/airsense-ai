@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a99bffb7b9b94aca9b9e6f83d10eb7bd/artifacts
+end_time: 1761559867302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a99bffb7b9b94aca9b9e6f83d10eb7bd
+run_name: abrasive-rook-613
+run_uuid: a99bffb7b9b94aca9b9e6f83d10eb7bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761559865032
+status: 3
+tags: []
+user_id: shardendujha

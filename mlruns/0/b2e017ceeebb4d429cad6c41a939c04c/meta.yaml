@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/b2e017ceeebb4d429cad6c41a939c04c/artifacts
+end_time: 1761600864788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2e017ceeebb4d429cad6c41a939c04c
+run_name: delicate-mule-365
+run_uuid: b2e017ceeebb4d429cad6c41a939c04c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761600862866
+status: 3
+tags: []
+user_id: shardendujha

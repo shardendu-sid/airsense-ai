@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/0c859eb8f5f14c23907be3874925779a/artifacts
+end_time: 1761519812212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c859eb8f5f14c23907be3874925779a
+run_name: illustrious-wasp-512
+run_uuid: 0c859eb8f5f14c23907be3874925779a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761519810297
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/1eec482d908a48818dd7affe7a37fcc8/artifacts
+end_time: 1762095328663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1eec482d908a48818dd7affe7a37fcc8
+run_name: painted-ape-412
+run_uuid: 1eec482d908a48818dd7affe7a37fcc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762095326586
+status: 3
+tags: []
+user_id: shardendujha

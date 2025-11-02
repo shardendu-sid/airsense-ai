@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/e73f9414340e476bb6422abf500fb76a/artifacts
+end_time: 1761614523363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e73f9414340e476bb6422abf500fb76a
+run_name: adaptable-moth-505
+run_uuid: e73f9414340e476bb6422abf500fb76a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761614521454
+status: 3
+tags: []
+user_id: shardendujha

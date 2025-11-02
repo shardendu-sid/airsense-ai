@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/51addd21edf6402986529b731aafbe26/artifacts
+end_time: 1761554404503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51addd21edf6402986529b731aafbe26
+run_name: gifted-sheep-719
+run_uuid: 51addd21edf6402986529b731aafbe26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761554402258
+status: 3
+tags: []
+user_id: shardendujha

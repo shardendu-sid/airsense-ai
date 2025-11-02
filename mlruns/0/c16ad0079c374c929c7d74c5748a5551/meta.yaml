@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/c16ad0079c374c929c7d74c5748a5551/artifacts
+end_time: 1762004579104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c16ad0079c374c929c7d74c5748a5551
+run_name: carefree-owl-377
+run_uuid: c16ad0079c374c929c7d74c5748a5551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762004577134
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/10ad787accd549eba6f8258b8d65b41e/artifacts
+end_time: 1761578996709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10ad787accd549eba6f8258b8d65b41e
+run_name: unruly-mole-596
+run_uuid: 10ad787accd549eba6f8258b8d65b41e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761578994813
+status: 3
+tags: []
+user_id: shardendujha

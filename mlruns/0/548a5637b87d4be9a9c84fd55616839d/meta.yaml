@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/548a5637b87d4be9a9c84fd55616839d/artifacts
+end_time: 1761580821294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 548a5637b87d4be9a9c84fd55616839d
+run_name: polite-cat-961
+run_uuid: 548a5637b87d4be9a9c84fd55616839d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761580819400
+status: 3
+tags: []
+user_id: shardendujha

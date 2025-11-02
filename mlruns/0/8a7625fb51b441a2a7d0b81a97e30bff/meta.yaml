@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/8a7625fb51b441a2a7d0b81a97e30bff/artifacts
+end_time: 1761588104037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8a7625fb51b441a2a7d0b81a97e30bff
+run_name: serious-foal-769
+run_uuid: 8a7625fb51b441a2a7d0b81a97e30bff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761588101699
+status: 3
+tags: []
+user_id: shardendujha

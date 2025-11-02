@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/aa1fba36a0a04ca3b82b50f2dfaa56f9/artifacts
+end_time: 1761628174354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa1fba36a0a04ca3b82b50f2dfaa56f9
+run_name: receptive-cod-854
+run_uuid: aa1fba36a0a04ca3b82b50f2dfaa56f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761628172452
+status: 3
+tags: []
+user_id: shardendujha

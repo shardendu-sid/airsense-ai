@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/15b3cb0db44b413a872506d9fc65712f/artifacts
+end_time: 1761612700365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15b3cb0db44b413a872506d9fc65712f
+run_name: enchanting-crab-181
+run_uuid: 15b3cb0db44b413a872506d9fc65712f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761612698458
+status: 3
+tags: []
+user_id: shardendujha

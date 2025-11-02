@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/7e1b138e5fe846d3a85d0f2de5e374c2/artifacts
+end_time: 1762026061209
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e1b138e5fe846d3a85d0f2de5e374c2
+run_name: marvelous-gull-932
+run_uuid: 7e1b138e5fe846d3a85d0f2de5e374c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762026059177
+status: 3
+tags: []
+user_id: shardendujha

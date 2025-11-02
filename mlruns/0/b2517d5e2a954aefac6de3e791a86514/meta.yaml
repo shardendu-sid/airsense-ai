@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/b2517d5e2a954aefac6de3e791a86514/artifacts
+end_time: 1762004923451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2517d5e2a954aefac6de3e791a86514
+run_name: chill-pig-575
+run_uuid: b2517d5e2a954aefac6de3e791a86514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762004921492
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,360 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+
+    <h1>Weather Data Zone</h1>
+    <table id="weather-table">
+        <thead>
+            <tr>
+                <th>Timestamp</th>
+                <th>Temperature</th>
+                <th>Feels like</th>
+                <th>Pressure</th>
+                <th>Humidity</th>
+                <th>Visibility</th>
+                <th>Wind Speed</th>
+                <th>City Name</th>
+                <th>Country Code</th>
+            </tr>
+        </thead>
+        <tbody>
+          
+            {% for data in weather_data %}
+            
+                <tr>
+                    <td>{{ data[0] }}</td>
+                    <td>{{ data[1] }}</td>
+                    <td>{{ data[2] }}</td>
+                    <td>{{ data[3] }}</td>
+                    <td>{{ data[4] }}</td>
+                    <td>{{ data[5] }}</td>
+                    <td>{{ data[6] }}</td>
+                    <td>{{ data[7] }}</td>
+                    <td>{{ data[8] }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <div class="graph-container">
+        <canvas id="weatherChart"></canvas>
+    </div>
+    
+    <h1>Indoor Air Quality Metrics</h1>
+    <table id="iaq-table">
+        <thead>
+            <tr>
+                <th>Timestamp</th>
+                <th>Temperature</th>
+                <th>Humidity</th>
+                <th>CO2</th>
+                <th>VOC</th>
+                <th>PM2.5</th>
+                <th>Location</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for data in sensor_data %}
+            <tr>
+                <td>{{ data[0] }}</td>
+                <td>{{ data[3] }}</td>
+                <td>{{ data[4] }}</td>
+                <td>{{ data[6] }}</td>
+                <td>{{ data[9] }}</td>
+                <td>{{ data[13] }}</td>
+                <td>{{ data[15] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <div class="graph-container">
+        <canvas id="iaqChart"></canvas>
+    </div>
+
+    <h1>Machine Learning Prediction</h1>
+    <table id="prediction" border="1">
+        <thead>
+            <tr>
+                <th>DateTime</th>
+                <th>Temp_Pred</th>
+                
+                <th>Humid_Pred</th>
+                
+                <th>Co2_Pred</th>
+                
+                <th>Voc_Pred</th>
+               
+                <th>Pm25_Pred</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for data in predicted_data %}
+            <tr>
+                <td>{{ data[0] }}</td>
+                <td>{{ data[1] }}</td>
+                <td>{{ data[2] }}</td>
+                <td>{{ data[3] }}</td>
+                <td>{{ data[4] }}</td>
+                <td>{{ data[5] }}</td>
+                
+            </tr>
+            {% endfor %}
+        </tbody>
+        
+    </table>
+
+    <div class="graph-container"> <!-- Adjust size here -->
+        <canvas id="myChart"></canvas>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Initialize Weather Chart
+            const weatherCtx = document.getElementById('weatherChart').getContext('2d');
+            let weatherChart = new Chart(weatherCtx, {
+                type: 'line',
+                data: {
+                    labels: [], // Placeholder for Timestamps
+                    datasets: [
+                        {
+                            label: 'Temperature',
+                            data: [],
+                            borderColor: 'rgba(255, 99, 132, 1)',
+                            borderWidth: 1
+                        },
+                        {
+                            label: 'Humidity',
+                            data: [],
+                            borderColor: 'rgba(54, 162, 235, 1)',
+                            borderWidth: 1
+                        },
+                        {
+                            label: 'Pressure',
+                            data: [],
+                            borderColor: 'rgba(75, 192, 192, 1)',
+                            borderWidth: 1
+                        },
+                        {
+                            label: 'Wind Speed',
+                            data: [],
+                            borderColor: 'rgba(153, 102, 255, 1)',
+                            borderWidth: 1
+                        },
+                        {
+                            label: 'Feels Like',
+                            data: [],
+                            borderColor: 'rgba(255, 206, 86, 1)',
+                            borderWidth: 1
+                        },
+                        {
+                            label: 'Visibility',
+                            data: [],
+                            borderColor: 'rgba(99, 255, 132, 1)',
+                            borderWidth: 1
+                        }
+                        // 'City Name' and 'Country Code' are excluded as they are not numerical data
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+            // Initialize IAQ Chart
+            const iaqCtx = document.getElementById('iaqChart').getContext('2d');
+            let iaqChart = new Chart(iaqCtx, {
+                type: 'line',
+                data: {
+                    labels: [], // Placeholder for Timestamps
+                    datasets: [
+                        {
+                            label: 'CO2',
+                            data: [],
+                            borderColor: 'rgba(153, 102, 235, 1)',
+                            borderWidth: 1
+                        },
+                        {
+                            label: 'VOC',
+                            data: [],
+                            borderColor: 'rgba(255, 159, 64, 1)',
+                            borderWidth: 1
+                        },
+                        {
+                            label: 'PM2.5',
+                            data: [],
+                            borderColor: 'rgba(255, 206, 86, 1)',
+                            borderWidth: 1
+                        },
+                        {
+                            label: 'Temperature',
+                            data: [],
+                            borderColor: 'rgba(75, 192, 192, 1)',
+                            borderWidth: 1
+                        },
+                        {
+                            label: 'Humidity',
+                            data: [],
+                            borderColor: 'rgba(54, 162, 235, 1)',
+                            borderWidth: 1
+                        }
+                        // Note: 'Location' may not be suitable for a line chart as it's not a numerical metric
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+            // Get the context for the prediction chart
+            const predictionCtx = document.getElementById('myChart').getContext('2d');
+
+            // Initialize Prediction Chart
+            let predictionChart = new Chart(predictionCtx, {
+                type: 'line',
+                data: {
+                    labels: [], // Placeholder for Timestamps
+                    datasets: [
+                        {
+                            label: 'CO2 Prediction',
+                            data: [],
+                            backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                            borderColor: 'rgba(255, 99, 132, 1)',
+                            borderWidth: 1
+                        },
+                        {
+                            label: 'Humidity Prediction',
+                            data: [],
+                            backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                            borderColor: 'rgba(54, 162, 235, 1)',
+                            borderWidth: 1
+                        },
+                        {
+                            label: 'PM2.5 Prediction',
+                            data: [],
+                            backgroundColor: 'rgba(255, 206, 86, 0.2)',
+                            borderColor: 'rgba(255, 206, 86, 1)',
+                            borderWidth: 1
+                        },
+                        {
+                            label: 'Temperature Prediction',
+                            data: [],
+                            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                            borderColor: 'rgba(75, 192, 192, 1)',
+                            borderWidth: 1
+                        },
+                        {
+                            label: 'VOC Prediction',
+                            data: [],
+                            backgroundColor: 'rgba(153, 102, 255, 0.2)',
+                            borderColor: 'rgba(153, 102, 255, 1)',
+                            borderWidth: 1
+                        }
+                    ]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    scales: {
+                        y: {
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+
+            function updateWeatherChart() {
+                fetch('/weather-data') // Replace with your actual endpoint
+                    .then(response => response.json())
+                    .then(data => {
+                        console.log('Weather Data:', data);
+
+                        weatherChart.data.labels = data.map(item => item.Timestamp);
+
+                        weatherChart.data.datasets[0].data = data.map(item => parseFloat(item.Temperature));
+                        weatherChart.data.datasets[1].data = data.map(item => parseFloat(item.Humidity));
+                        weatherChart.data.datasets[2].data = data.map(item => parseFloat(item.Pressure));
+                        weatherChart.data.datasets[3].data = data.map(item => parseFloat(item.WindSpeed));
+                        weatherChart.data.datasets[4].data = data.map(item => parseFloat(item["Feels like"]));
+                        weatherChart.data.datasets[5].data = data.map(item => parseFloat(item.Visibility));
+
+                        weatherChart.update();
+                    })
+                    .catch(error => {
+                        console.error('Error fetching weather data:', error);
+                    });
+            }
+
+            // Function to update IAQ Chart
+            function updateIAQChart() {
+                fetch('/sensor-data') // Replace with your actual endpoint
+                    .then(response => response.json())
+                    .then(data => {
+                        console.log('IAQ Data:', data); // Log received data to console
+
+                        // Update chart datasets
+                        iaqChart.data.labels = data.map(item => new Date(item.timestamp).toLocaleString());
+                        iaqChart.data.datasets[0].data = data.map(item => item.co2);
+                        iaqChart.data.datasets[1].data = data.map(item => item.voc);
+                        iaqChart.data.datasets[2].data = data.map(item => item.pm25);
+                        iaqChart.data.datasets[3].data = data.map(item => item.temp);
+                        iaqChart.data.datasets[4].data = data.map(item => item.humid);
+
+                        // Update chart
+                        iaqChart.update();
+                    })
+                    .catch(error => console.error('Error fetching IAQ data:', error));
+            }
+
+
+            function updatePredictionChart() {
+                fetch('/latest-data') // Replace with your actual endpoint
+                    .then(response => response.json())
+                    .then(data => {
+                        console.log('Prediction Data:', data);
+
+                        predictionChart.data.labels = data.map(item => item.DateTime);
+
+                        predictionChart.data.datasets[0].data = data.map(item => item.Co2_Pred);
+                        predictionChart.data.datasets[1].data = data.map(item => item.Humid_Pred);
+                        predictionChart.data.datasets[2].data = data.map(item => item.Pm25_Pred);
+                        predictionChart.data.datasets[3].data = data.map(item => item.Temp_Pred);
+                        predictionChart.data.datasets[4].data = data.map(item => item.VOC_Pred);
+
+                        predictionChart.update();
+                    })
+                    .catch(error => {
+                        console.error('Error fetching prediction data:', error);
+                    });
+            }
+
+
+
+            // Initial Calls to Load Data
+            updateWeatherChart();
+            updateIAQChart();
+            updatePredictionChart();
+
+            // Periodic Updates (every 10 minutes)
+            setInterval(updateWeatherChart, 600000); // 10 minutes for weather chart
+            setInterval(updateIAQChart, 600000);      // 10 minutes for IAQ chart
+            setInterval(updatePredictionChart, 600000); // 10 minutes for prediction chart
+        });
+        
+
+
+    </script>
+    
+
+{% endblock %}

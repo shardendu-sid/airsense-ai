@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/79dfdad33d1d4c03a1746540f53467b2/artifacts
+end_time: 1762086906443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79dfdad33d1d4c03a1746540f53467b2
+run_name: nosy-rat-501
+run_uuid: 79dfdad33d1d4c03a1746540f53467b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762086904411
+status: 3
+tags: []
+user_id: shardendujha

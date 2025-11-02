@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/d9e94df9bfb2413dbd01314fb41bf829/artifacts
+end_time: 1761513439595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9e94df9bfb2413dbd01314fb41bf829
+run_name: wise-fox-855
+run_uuid: d9e94df9bfb2413dbd01314fb41bf829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761513437685
+status: 3
+tags: []
+user_id: shardendujha

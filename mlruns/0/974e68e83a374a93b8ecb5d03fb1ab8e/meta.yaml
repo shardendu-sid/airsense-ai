@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/974e68e83a374a93b8ecb5d03fb1ab8e/artifacts
+end_time: 1762096045254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 974e68e83a374a93b8ecb5d03fb1ab8e
+run_name: magnificent-shoat-73
+run_uuid: 974e68e83a374a93b8ecb5d03fb1ab8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762096043093
+status: 3
+tags: []
+user_id: shardendujha

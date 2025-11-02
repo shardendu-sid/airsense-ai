@@ -1,0 +1,85 @@
+/* Styles for the data part, model label, and prediction button */
+.data_part {
+  margin-top: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px; /* Adjusted from fixed width to max-width */
+  width: 90%; /* Responsive width */
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  background: #ede6dc;
+  height: 250px;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  margin-bottom: 30px;
+  margin-top: 10px;
+}
+
+.model-label {
+  font-weight: bold;
+  font-size: 25px;
+  color: black;
+  margin-left: 100px; /* Adjust this for smaller screens */
+  font-family: 'Sansita', sans-serif;
+  padding-right: 10px;
+}
+
+.model-select {
+  width: 200px;
+  padding: 8px;
+  font-size: 14px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.pred-btn {
+  text-align: center;
+  height: 45px;
+  width: 125px; /* Adjust this for smaller screens */
+  margin-left: 230px; /* Adjust this for smaller screens */
+  font-size: 25px;
+  background: #857259;
+  color: white;
+  margin-top: 10px;
+  border: 2px solid white;
+  border-radius: 30px;
+}
+
+.pred-btn:hover {
+  background: rgb(104, 141, 110);
+  color: black;
+  border: 2px solid black;
+}
+
+.model-result {
+  padding-top: 10%;
+  text-align: center;
+}
+
+/* Responsive styles for smaller screens (like tablets and mobile devices) */
+@media screen and (max-width: 768px) {
+  body {
+    background: none;
+  }
+
+  .model-label {
+    margin-left: 10px; /* Adjusted for smaller screens */
+    font-size: 20px; /* Smaller font size */
+  }
+
+  .pred-btn {
+    width: 100%; /* Full width on smaller screens */
+    margin-left: 0; /* Centered */
+    font-size: 20px; /* Smaller font size */
+  }
+
+  .model-select {
+    width: 100%; /* Full width on smaller screens */
+  }
+}

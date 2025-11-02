@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/24cd5bda43054a519e11e91348e9d209/artifacts
+end_time: 1761535291223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24cd5bda43054a519e11e91348e9d209
+run_name: useful-crow-813
+run_uuid: 24cd5bda43054a519e11e91348e9d209
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761535289322
+status: 3
+tags: []
+user_id: shardendujha

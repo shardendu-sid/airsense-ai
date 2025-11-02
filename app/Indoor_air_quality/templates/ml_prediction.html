@@ -1,0 +1,77 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<link rel="stylesheet" href="static/css/prediction.css">
+<h1>Historical ML Predicted Data</h1>  
+    <div class="top-bar">    
+          
+        <div class="search-container">
+            <form action="{{ url_for('main.display_predicted_data') }}" method="get">
+                <input type="text" name="search" placeholder="Search...">
+                <button type="submit">Search</button>
+            </form>
+        </div>    
+    </div>
+    
+    
+    
+    
+    <table id="prediction-history">
+        <thead>
+            <tr>
+                <th>DateTime</th>
+                <th>Temp_Pred</th>
+                <th>Humid_Pred</th>
+                <th>Co2_Pred</th>
+                <th>VOC_Pred</th>
+                <th>Pm25_Pred</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in table %}
+            <tr>
+                <td>{{ row['DateTime'] }}</td>
+                <td>{{ row['Temp_Pred'] }}</td>
+                <td>{{ row['Humid_Pred'] }}</td>
+                <td>{{ row['Co2_Pred'] }}</td>
+                <td>{{ row['Voc_Pred'] }}</td>
+                <td>{{ row['Pm25_Pred'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <!-- Pagination Links -->
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            <!-- First Page Link -->
+            <li class="page-item {% if current_page == 1 %}disabled{% endif %}">
+                <a class="page-link" href="{{ url_for('main.display_predicted_data', page=1) }}">First</a>
+            </li>
+            <!-- Previous Page Link -->
+            <li class="page-item {% if current_page == 1 %}disabled{% endif %}">
+                <a class="page-link" href="{{ url_for('main.display_predicted_data', page=current_page-1) }}">Previous</a>
+            </li>
+
+            <!-- Page Number Links -->
+            {% set window = 5 %} <!-- Number of pages to show around the current page -->
+            {% for p in range(current_page - window, current_page + window + 1) %}
+                {% if p > 0 and p <= total_pages %}
+                    <li class="page-item {% if p == current_page %}active{% endif %}">
+                        <a class="page-link" href="{{ url_for('main.display_predicted_data', page=p,search=search_query) }}">{{ p }}</a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+
+            <!-- Next Page Link -->
+            <li class="page-item {% if current_page == total_pages %}disabled{% endif %}">
+                <a class="page-link" href="{{ url_for('main.display_predicted_data', page=current_page+1) }}">Next</a>
+            </li>
+            <!-- Last Page Link -->
+            <li class="page-item {% if current_page == total_pages %}disabled{% endif %}">
+                <a class="page-link" href="{{ url_for('main.display_predicted_data', page=total_pages) }}">Last</a>
+            </li>
+        </ul>
+    </nav>
+
+    
+{% endblock %}

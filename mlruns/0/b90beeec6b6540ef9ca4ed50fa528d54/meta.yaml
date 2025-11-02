@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/b90beeec6b6540ef9ca4ed50fa528d54/artifacts
+end_time: 1761599038527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b90beeec6b6540ef9ca4ed50fa528d54
+run_name: calm-fox-919
+run_uuid: b90beeec6b6540ef9ca4ed50fa528d54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761599036599
+status: 3
+tags: []
+user_id: shardendujha

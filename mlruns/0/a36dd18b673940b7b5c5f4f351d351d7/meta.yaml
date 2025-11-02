@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a36dd18b673940b7b5c5f4f351d351d7/artifacts
+end_time: 1762092880108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a36dd18b673940b7b5c5f4f351d351d7
+run_name: thundering-hog-388
+run_uuid: a36dd18b673940b7b5c5f4f351d351d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762092876631
+status: 3
+tags: []
+user_id: shardendujha

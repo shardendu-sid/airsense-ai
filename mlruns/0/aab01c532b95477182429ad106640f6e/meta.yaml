@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/aab01c532b95477182429ad106640f6e/artifacts
+end_time: 1761596307905
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aab01c532b95477182429ad106640f6e
+run_name: delicate-quail-48
+run_uuid: aab01c532b95477182429ad106640f6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761596306003
+status: 3
+tags: []
+user_id: shardendujha

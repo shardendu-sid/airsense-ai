@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/70912dca0d92453f9f4d14fd24a00688/artifacts
+end_time: 1761933090095
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70912dca0d92453f9f4d14fd24a00688
+run_name: unequaled-gull-749
+run_uuid: 70912dca0d92453f9f4d14fd24a00688
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761933088148
+status: 3
+tags: []
+user_id: shardendujha

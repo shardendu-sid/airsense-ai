@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/4439c10e3531467f838be64b0081ef87/artifacts
+end_time: 1761585369511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4439c10e3531467f838be64b0081ef87
+run_name: welcoming-shoat-147
+run_uuid: 4439c10e3531467f838be64b0081ef87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761585367563
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/16ca9029dc1e4ff4aa7575162f455d59/artifacts
+end_time: 1761566249594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16ca9029dc1e4ff4aa7575162f455d59
+run_name: sneaky-goose-660
+run_uuid: 16ca9029dc1e4ff4aa7575162f455d59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761566247643
+status: 3
+tags: []
+user_id: shardendujha

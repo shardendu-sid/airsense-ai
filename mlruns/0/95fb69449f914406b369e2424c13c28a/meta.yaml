@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/95fb69449f914406b369e2424c13c28a/artifacts
+end_time: 1761567158251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95fb69449f914406b369e2424c13c28a
+run_name: illustrious-ray-487
+run_uuid: 95fb69449f914406b369e2424c13c28a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761567156311
+status: 3
+tags: []
+user_id: shardendujha

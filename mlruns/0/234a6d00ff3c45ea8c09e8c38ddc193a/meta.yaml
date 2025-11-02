@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/234a6d00ff3c45ea8c09e8c38ddc193a/artifacts
+end_time: 1762019884170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 234a6d00ff3c45ea8c09e8c38ddc193a
+run_name: ambitious-doe-708
+run_uuid: 234a6d00ff3c45ea8c09e8c38ddc193a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762019882210
+status: 3
+tags: []
+user_id: shardendujha

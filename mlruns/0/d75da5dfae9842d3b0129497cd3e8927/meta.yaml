@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/d75da5dfae9842d3b0129497cd3e8927/artifacts
+end_time: 1761646646767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d75da5dfae9842d3b0129497cd3e8927
+run_name: brawny-ape-900
+run_uuid: d75da5dfae9842d3b0129497cd3e8927
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761646644741
+status: 3
+tags: []
+user_id: shardendujha

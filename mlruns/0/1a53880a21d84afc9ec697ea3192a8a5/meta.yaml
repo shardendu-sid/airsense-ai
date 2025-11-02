@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/1a53880a21d84afc9ec697ea3192a8a5/artifacts
+end_time: 1761592658078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a53880a21d84afc9ec697ea3192a8a5
+run_name: suave-moose-824
+run_uuid: 1a53880a21d84afc9ec697ea3192a8a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761592656163
+status: 3
+tags: []
+user_id: shardendujha

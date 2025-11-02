@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/e128668d6f81440ca1cf548c4419ba65/artifacts
+end_time: 1761543481521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e128668d6f81440ca1cf548c4419ba65
+run_name: thundering-carp-820
+run_uuid: e128668d6f81440ca1cf548c4419ba65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761543479540
+status: 3
+tags: []
+user_id: shardendujha

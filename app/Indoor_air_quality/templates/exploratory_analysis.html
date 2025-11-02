@@ -1,0 +1,18 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<link rel="stylesheet" href="static/css/data-analysis.css">
+<div class="visualization-container">
+    <h1>Data Visualizations</h1>
+    <div class="first-row-plots">
+        <img src="data:image/png;base64,{{ plots['temp'] }}" alt="Temperature Plot">
+        <img src="data:image/png;base64,{{ plots['humid'] }}" alt="Humidity Plot">
+        <img src="data:image/png;base64,{{ plots['co2'] }}" alt="Co2 Plot">
+    </div>
+    <div class="second-row-plots">
+        <img src="data:image/png;base64,{{ plots['voc'] }}" alt="VOC Plot">
+        <img src="data:image/png;base64,{{ plots['pm25'] }}" alt="Pm2.5 Plot">
+        <img src="data:image/png;base64,{{ correlation_heatmap }}" alt="Correlation Heatmap">
+    </div>
+</div>
+{% endblock %}

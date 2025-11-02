@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/7f309fdc4153466fbb815e962fa72d6a/artifacts
+end_time: 1762025913018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f309fdc4153466fbb815e962fa72d6a
+run_name: rogue-rat-193
+run_uuid: 7f309fdc4153466fbb815e962fa72d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762025910586
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/2e20924977784901a665ff1e9e257291/artifacts
+end_time: 1761613612808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e20924977784901a665ff1e9e257291
+run_name: righteous-jay-953
+run_uuid: 2e20924977784901a665ff1e9e257291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761613610885
+status: 3
+tags: []
+user_id: shardendujha

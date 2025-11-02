@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/ac82ee47818c45b3aa9a41d3fd127f56/artifacts
+end_time: 1761611784163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac82ee47818c45b3aa9a41d3fd127f56
+run_name: capable-wren-44
+run_uuid: ac82ee47818c45b3aa9a41d3fd127f56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761611781869
+status: 3
+tags: []
+user_id: shardendujha

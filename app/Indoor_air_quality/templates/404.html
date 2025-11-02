@@ -1,0 +1,13 @@
+{% extends 'layout.html' %} 
+{% block content %}
+<br>
+<div id="404_error" class="container">
+    <h2>"The page your looking is not found, Please use valid page"</h2><br>
+    <div>
+        <span class="badge badge-primary"><a href="{{ url_for('main.display_dashboard')}}" style="color: floralwhite">Back To Dashboard</a></span>
+    </div>
+    
+    <!-- <span class="label label-primary"><a href="{{ url_for('main.display_dashboard')}}" style="color: rgb(99, 50, 223)">Back To Dashboard</a></span> -->
+
+</div>
+{% endblock %}

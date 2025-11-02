@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/ded8a56457dc4280ba893659949dc547/artifacts
+end_time: 1762088010003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ded8a56457dc4280ba893659949dc547
+run_name: serious-pug-305
+run_uuid: ded8a56457dc4280ba893659949dc547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762088007916
+status: 3
+tags: []
+user_id: shardendujha

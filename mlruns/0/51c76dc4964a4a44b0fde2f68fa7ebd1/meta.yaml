@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/51c76dc4964a4a44b0fde2f68fa7ebd1/artifacts
+end_time: 1762093723415
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51c76dc4964a4a44b0fde2f68fa7ebd1
+run_name: intrigued-chimp-530
+run_uuid: 51c76dc4964a4a44b0fde2f68fa7ebd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762093721376
+status: 3
+tags: []
+user_id: shardendujha

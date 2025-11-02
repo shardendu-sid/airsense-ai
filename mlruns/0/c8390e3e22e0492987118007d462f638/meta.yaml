@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/c8390e3e22e0492987118007d462f638/artifacts
+end_time: 1761646642641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8390e3e22e0492987118007d462f638
+run_name: able-gnat-195
+run_uuid: c8390e3e22e0492987118007d462f638
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761646640559
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/d1a02c9249f2478eac1386a8b230b616/artifacts
+end_time: 1761645735805
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1a02c9249f2478eac1386a8b230b616
+run_name: popular-vole-826
+run_uuid: d1a02c9249f2478eac1386a8b230b616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761645733758
+status: 3
+tags: []
+user_id: shardendujha

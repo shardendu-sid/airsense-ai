@@ -1,0 +1,53 @@
+/* Your existing styles */
+.visualization-container {
+    text-align: center;
+}
+
+.plots-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.plots-container img {
+    margin: 10px;
+    max-width: 20%;
+    height: auto;
+}
+
+.first-row-plots,
+.second-row-plots {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.first-row-plots img,
+.second-row-plots img {
+    margin: 10px;
+    max-width: 20%; /* Adjust as needed for uniformity */
+    height: auto;
+}
+
+/* Add responsive styles below without altering the above code */
+
+/* For large screens (e.g., desktops) */
+@media screen and (min-width: 1025px) {
+    .plots-container img {
+        max-width: 10%; /* Adjust the size for larger screens */
+    }
+}
+
+/* For medium screens (e.g., tablets, small laptops) */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .plots-container img {
+        max-width: 30%; /* Adjust the size for medium screens */
+    }
+}
+
+/* For small screens (e.g., mobile devices) */
+@media screen and (max-width: 767px) {
+    .plots-container img {
+        max-width: 80%; /* Adjust the size for smaller screens */
+    }
+}

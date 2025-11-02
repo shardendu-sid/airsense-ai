@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a5443f1cf94a41aebc97e2d2df24064b/artifacts
+end_time: 1761605418835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5443f1cf94a41aebc97e2d2df24064b
+run_name: polite-frog-628
+run_uuid: a5443f1cf94a41aebc97e2d2df24064b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761605416928
+status: 3
+tags: []
+user_id: shardendujha

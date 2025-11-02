@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/c6fa37a76a5747fdadace48e37ffc4bc/artifacts
+end_time: 1761544393800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6fa37a76a5747fdadace48e37ffc4bc
+run_name: stylish-quail-39
+run_uuid: c6fa37a76a5747fdadace48e37ffc4bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761544391865
+status: 3
+tags: []
+user_id: shardendujha

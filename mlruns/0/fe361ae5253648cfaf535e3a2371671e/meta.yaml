@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/fe361ae5253648cfaf535e3a2371671e/artifacts
+end_time: 1761625445018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe361ae5253648cfaf535e3a2371671e
+run_name: serious-cod-1000
+run_uuid: fe361ae5253648cfaf535e3a2371671e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761625443095
+status: 3
+tags: []
+user_id: shardendujha

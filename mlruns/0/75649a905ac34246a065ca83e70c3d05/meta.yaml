@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/75649a905ac34246a065ca83e70c3d05/artifacts
+end_time: 1762093725440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75649a905ac34246a065ca83e70c3d05
+run_name: receptive-newt-479
+run_uuid: 75649a905ac34246a065ca83e70c3d05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762093723447
+status: 3
+tags: []
+user_id: shardendujha

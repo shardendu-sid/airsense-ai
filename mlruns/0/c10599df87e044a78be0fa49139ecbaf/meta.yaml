@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/c10599df87e044a78be0fa49139ecbaf/artifacts
+end_time: 1761499708904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c10599df87e044a78be0fa49139ecbaf
+run_name: puzzled-owl-289
+run_uuid: c10599df87e044a78be0fa49139ecbaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761499706988
+status: 3
+tags: []
+user_id: shardendujha

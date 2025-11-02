@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a1b3732e6ba44acfb1be5f31a364e9fc/artifacts
+end_time: 1761562607783
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1b3732e6ba44acfb1be5f31a364e9fc
+run_name: nebulous-crow-708
+run_uuid: a1b3732e6ba44acfb1be5f31a364e9fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761562605474
+status: 3
+tags: []
+user_id: shardendujha

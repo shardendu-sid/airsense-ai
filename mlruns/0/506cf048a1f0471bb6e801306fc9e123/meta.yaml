@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/506cf048a1f0471bb6e801306fc9e123/artifacts
+end_time: 1761548947683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 506cf048a1f0471bb6e801306fc9e123
+run_name: marvelous-cow-338
+run_uuid: 506cf048a1f0471bb6e801306fc9e123
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761548945778
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/bb9408db0031494b80be9756f2b0eb18/artifacts
+end_time: 1761577179720
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb9408db0031494b80be9756f2b0eb18
+run_name: rambunctious-cat-610
+run_uuid: bb9408db0031494b80be9756f2b0eb18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761577177814
+status: 3
+tags: []
+user_id: shardendujha

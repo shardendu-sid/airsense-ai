@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/63aee9cddbab4c5d917b12ef5fdb8e68/artifacts
+end_time: 1761620896303
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63aee9cddbab4c5d917b12ef5fdb8e68
+run_name: sneaky-kite-517
+run_uuid: 63aee9cddbab4c5d917b12ef5fdb8e68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761620894390
+status: 3
+tags: []
+user_id: shardendujha

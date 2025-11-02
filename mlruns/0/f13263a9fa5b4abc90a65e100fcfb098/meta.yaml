@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/f13263a9fa5b4abc90a65e100fcfb098/artifacts
+end_time: 1761619979992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f13263a9fa5b4abc90a65e100fcfb098
+run_name: welcoming-goat-16
+run_uuid: f13263a9fa5b4abc90a65e100fcfb098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761619978085
+status: 3
+tags: []
+user_id: shardendujha

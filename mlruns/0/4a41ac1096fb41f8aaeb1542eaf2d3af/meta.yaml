@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/4a41ac1096fb41f8aaeb1542eaf2d3af/artifacts
+end_time: 1761536201658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a41ac1096fb41f8aaeb1542eaf2d3af
+run_name: secretive-kit-77
+run_uuid: 4a41ac1096fb41f8aaeb1542eaf2d3af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761536199671
+status: 3
+tags: []
+user_id: shardendujha

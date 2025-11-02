@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/48b6c5ee5a1d41c88e807a3cf0224652/artifacts
+end_time: 1761567156054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48b6c5ee5a1d41c88e807a3cf0224652
+run_name: abundant-frog-750
+run_uuid: 48b6c5ee5a1d41c88e807a3cf0224652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761567154136
+status: 3
+tags: []
+user_id: shardendujha

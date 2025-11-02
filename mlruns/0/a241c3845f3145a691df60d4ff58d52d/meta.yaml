@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a241c3845f3145a691df60d4ff58d52d/artifacts
+end_time: 1761583547617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a241c3845f3145a691df60d4ff58d52d
+run_name: intelligent-rook-759
+run_uuid: a241c3845f3145a691df60d4ff58d52d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761583545676
+status: 3
+tags: []
+user_id: shardendujha

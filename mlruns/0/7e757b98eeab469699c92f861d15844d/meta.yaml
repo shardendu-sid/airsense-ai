@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/7e757b98eeab469699c92f861d15844d/artifacts
+end_time: 1761538018384
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e757b98eeab469699c92f861d15844d
+run_name: puzzled-yak-902
+run_uuid: 7e757b98eeab469699c92f861d15844d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761538016475
+status: 3
+tags: []
+user_id: shardendujha

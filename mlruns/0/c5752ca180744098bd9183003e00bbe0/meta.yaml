@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/c5752ca180744098bd9183003e00bbe0/artifacts
+end_time: 1761624538446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5752ca180744098bd9183003e00bbe0
+run_name: intelligent-foal-902
+run_uuid: c5752ca180744098bd9183003e00bbe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761624536501
+status: 3
+tags: []
+user_id: shardendujha

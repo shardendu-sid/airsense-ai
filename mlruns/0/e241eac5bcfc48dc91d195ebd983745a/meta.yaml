@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/e241eac5bcfc48dc91d195ebd983745a/artifacts
+end_time: 1762004581157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e241eac5bcfc48dc91d195ebd983745a
+run_name: likeable-grub-630
+run_uuid: e241eac5bcfc48dc91d195ebd983745a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762004579215
+status: 3
+tags: []
+user_id: shardendujha

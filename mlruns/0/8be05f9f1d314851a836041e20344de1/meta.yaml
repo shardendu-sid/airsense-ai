@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/8be05f9f1d314851a836041e20344de1/artifacts
+end_time: 1761609969097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8be05f9f1d314851a836041e20344de1
+run_name: redolent-goose-676
+run_uuid: 8be05f9f1d314851a836041e20344de1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761609967160
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/3e6a777a73e74b48aaebae22b0b00187/artifacts
+end_time: 1761597214468
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e6a777a73e74b48aaebae22b0b00187
+run_name: mercurial-finch-767
+run_uuid: 3e6a777a73e74b48aaebae22b0b00187
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761597212555
+status: 3
+tags: []
+user_id: shardendujha

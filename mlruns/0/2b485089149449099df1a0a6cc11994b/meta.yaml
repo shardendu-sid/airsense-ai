@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/2b485089149449099df1a0a6cc11994b/artifacts
+end_time: 1761609971056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b485089149449099df1a0a6cc11994b
+run_name: illustrious-panda-14
+run_uuid: 2b485089149449099df1a0a6cc11994b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761609969123
+status: 3
+tags: []
+user_id: shardendujha

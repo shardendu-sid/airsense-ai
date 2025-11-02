@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/40562454872b4e01b693d7a24bea05ef/artifacts
+end_time: 1761538014527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40562454872b4e01b693d7a24bea05ef
+run_name: unequaled-sloth-923
+run_uuid: 40562454872b4e01b693d7a24bea05ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761538012304
+status: 3
+tags: []
+user_id: shardendujha

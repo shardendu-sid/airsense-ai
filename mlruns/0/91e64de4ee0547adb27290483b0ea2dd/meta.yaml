@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/91e64de4ee0547adb27290483b0ea2dd/artifacts
+end_time: 1761632727755
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91e64de4ee0547adb27290483b0ea2dd
+run_name: receptive-moth-555
+run_uuid: 91e64de4ee0547adb27290483b0ea2dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761632725780
+status: 3
+tags: []
+user_id: shardendujha

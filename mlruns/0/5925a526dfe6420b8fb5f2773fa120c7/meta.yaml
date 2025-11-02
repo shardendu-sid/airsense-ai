@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/5925a526dfe6420b8fb5f2773fa120c7/artifacts
+end_time: 1761512525380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5925a526dfe6420b8fb5f2773fa120c7
+run_name: powerful-mare-903
+run_uuid: 5925a526dfe6420b8fb5f2773fa120c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761512523486
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/1c632f7b3c3d4fe093bb87b0c8aa673c/artifacts
+end_time: 1762086899866
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c632f7b3c3d4fe093bb87b0c8aa673c
+run_name: unequaled-rat-188
+run_uuid: 1c632f7b3c3d4fe093bb87b0c8aa673c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762086897865
+status: 3
+tags: []
+user_id: shardendujha

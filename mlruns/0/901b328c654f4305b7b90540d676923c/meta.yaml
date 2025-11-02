@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/901b328c654f4305b7b90540d676923c/artifacts
+end_time: 1761933088041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 901b328c654f4305b7b90540d676923c
+run_name: welcoming-kite-942
+run_uuid: 901b328c654f4305b7b90540d676923c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761933086064
+status: 3
+tags: []
+user_id: shardendujha

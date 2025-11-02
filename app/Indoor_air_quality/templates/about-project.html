@@ -1,0 +1,93 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<!-- <link rel="stylesheet" href="static/css/about-project.css">
+   
+    <div class="pdf-container">
+        <iframe class="pdf-viewer" src="static/about-project/Indoor Air Quality Home Automation.pdf"></iframe>
+    </div> -->
+    <link rel="stylesheet" href="static/css/about-project.css">
+
+    <div class="container">
+        <br><br>
+        <h2>Architecture</h2>
+        <br><br>
+        <img class="project_design" src="static/img/Picture 1.png" alt="">
+        <br><br>
+
+        <p><strong>Home Internet:</strong></p>
+    <ul>
+        <li>Home internet sockets provide built-in internet services offered by DNA, and they are connected to DPN.</li>
+        
+    </ul>
+
+    <p><strong>Decentralized Private Network:</strong></p>
+    <ul>
+        <li>The Deeper Network offers comprehensive protection for our network and data. It's prudent to delve into the details of the Deeper Network's capabilities and how it fortifies our network and data integrity. 
+            DPNs create secure encrypted tunnels over a public network (e.g., the internet), allowing re-mote users to access the internal internet securely through a decentralized VPN. The Deeper Connect device is a great example available in the market that includes a DPN, enterprise-grade cybersecurity, a secure gateway protecting all IoT devices, blocking all ads, including on YouTube, and easy configuration with a simple plug-and-play setup.
+        </li>
+        
+    </ul>
+
+    <p><strong>Wireless Router:</strong></p>
+    <ul>
+        <li>There is a wireless router connected to Deeper Connect to secure the entire home internet.</li>
+    </ul>
+
+    <p><strong>Air Quality Sensor:</strong></p>
+    <ul>
+        <li>The Awair Element sensor is considered one of the best indoor air monitoring devices availa-ble in the European market. I have been using this sensor for the past three years for various purposes. This research provides yet another opportunity to utilize this device and explore its usability in smart indoor systems. The sensor offers accurate and reliable data on all required elements, making it highly environmentally sensitive. It is crucial to conduct proper calibra-tion to ensure the collection of high-quality data.</li>
+    </ul>
+
+    <p><strong>Raspberry Pi 4:</strong></p>
+    <ul>
+        <li>The Raspberry Pi 4 serves as the central node to which all scripts, including the sensor connections, are integrated. A Python script manages the data pipeline, while the machine learn-ing model operates within this node. The device boasts a high-end configuration, enabling seamless handling of moderate computational loads without encountering performance issues. Below are highlighted key features and specifications of this setup. <br><br>
+
+            •	8 GB LPDDR4-2400 SDRAM RAM <br>
+            •	1.5 GHz Broadcom BCM2711 64-bit ARM Cortex-A72 Quad-core CPU <br>
+            •	Bluetooth 5.0 <br>
+            •	Dual-band 802.11ac Wi-Fi <br>
+            •	2 x micro-HDMI (up to 4K60p for one screen, or 4K30p for two screens) <br>
+            •	3.5 mm audio <br>
+            •	Gigabit Ethernet <br>
+            •	4 x USB <br>
+            •	microSD card reader <br>
+            •	Raspberry Pi 40-pin GPIO connector <br>
+            •	2-channel MIPI DSI display port <br>
+            •	2-channel MIPI CSI camera port <br>
+            •	Power supply: 15 W (5 V / 3 A) via USB-C or 5 Vdc GPIO connector <br>
+            •	Power over Ethernet (PoE) supported. <br>
+            </li>
+    </ul>
+
+    <p><strong>External Hard Drive:</strong></p>
+    <ul>
+        <li>Data storage is a crucial component of any data-related project. In this case, the collected data is stored in both a 500GB capacity external hard drive and a PostgreSQL database Docker container. Storing the data in PostgreSQL allows for the creation of a Visual frontend dash-board along with data pipeline through the cloud for future use. The 500GB capacity of the external hard drive is currently sufficient for this project, but it can be extended as needed.</li>
+    </ul>
+    <p><strong>Smart Wi-Fi Socket:</strong></p>
+    <ul>
+        <li>A small remote-controlled smart socket can be easily managed through a smart device, ena-bling users to control it from their home's Wi-Fi network or even remotely via the internet. It's an ideal solution for conveniently turning electrical appliances on and off. Additionally, the socket includes a physical button, allowing manual control.
+
+            During my research, I discovered the most intriguing feature of this device – API calls avail-able on pypi.org. These API calls provide usage time data for the socket. Leveraging this da-ta, I developed a code that calculates electricity costs and consumption in kwh. Moreover, I implemented a threshold with an automated time interval, enabling the socket to turn on and off automatically when the threshold is crossed.
+
+            Here are some key features of this fascinating device that makes it an essential addition to any smart home setup. <br><br>
+
+            •	Model: Tapo P100 <br>
+            •	Current data: 230 V, 50 Hz, 10 A <br>
+            •	Continuous switching power max. 2300 W (resistive load) <br>
+            •	The power light indicates whether the socket is on/off. <br>
+            •	A separate power switch enables operation without a smart device and control. <br>
+            •	Wireless standard: Wi-Fi 802.11b/g/n (2.4GHz), Bluetooth 4.2 (only used during commis-sioning) <br>
+            •	Amazon Alexa and Google Assistant compatible <br>
+            •	The Tapo app can be downloaded for Android and iOS devices. <br>
+            •	Dimensions: 51 x 72 x 40 mm <br>
+            •	Operating temperature: +0°C ~ +35°C, for indoor use only <br>
+
+        </li>
+    </ul>
+    <p><strong>Home Appliances:</strong></p>
+    <ul>
+        <li>The term 'home appliances' refers to any type of home electronics or smart devices, such as smart thermostats, smart lighting, smart locks and doorbells, smart TVs, smart sensors, home entertainment systems, energy monitoring systems, security cameras, and voice assistants, which can be integrated.</li>
+    </ul>
+    </div>
+{% endblock %}

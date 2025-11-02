@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/f6967ced147f49e388fa0fa372b15ca5/artifacts
+end_time: 1761521627100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6967ced147f49e388fa0fa372b15ca5
+run_name: incongruous-moth-358
+run_uuid: f6967ced147f49e388fa0fa372b15ca5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761521625188
+status: 3
+tags: []
+user_id: shardendujha

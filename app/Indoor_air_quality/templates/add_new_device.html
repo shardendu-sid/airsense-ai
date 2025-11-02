@@ -1,0 +1,35 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<link rel="stylesheet" href="static/css/add-new-device.css">
+
+
+<div class="data_part">
+    
+    <h1>Add New Device</h1>
+
+    <form>
+        
+        <label for="model" class="device-label">Select a Device</label> <br>
+        <select name="model" id="model" class="device-select">
+            <option value="linear-regression">Smart Thermostat</option>
+            <option value="random-forest">Smart Lighting</option>
+            <option value="support-vector-machine">Smart Locks</option>
+            <option value="k-nearest-neighbors">Smart Sensors</option>
+            <option value="k-nearest-neighbors">Air Cooler</option>
+            <option value="decision-trees">Voice Assistants</option>
+            <option value="decision-trees">Smart TV</option>
+            <option value="decision-trees">Security Cameras and Doorbells</option>
+            <option value="decision-trees">Smart Appliances</option>
+            <option value="decision-trees">Energy Monitoring Devices</option>
+            <option value="decision-trees">Home Entertainment Systems</option>
+            <!-- Add more options as needed -->
+        </select><br><br>
+        <label for="name" class="threshold-label">Temperature Level</label> <br>
+        <input type="number" class="threshold-select" id="name" name="name" required minlength="4" maxlength="8" size="10" />
+        <label for="name" class="threshold-label">Humidity Level</label> <br>
+        <input type="number" class="threshold-select" id="name" name="name" required minlength="4" maxlength="8" size="10" />
+        <button type="submit" class="pred-btn">Save</button>
+    </form>
+
+{% endblock %}

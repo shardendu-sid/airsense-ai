@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/e667ba3f7c044a76bb1f38069799fd5d/artifacts
+end_time: 1762089921678
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e667ba3f7c044a76bb1f38069799fd5d
+run_name: adventurous-deer-756
+run_uuid: e667ba3f7c044a76bb1f38069799fd5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762089919640
+status: 3
+tags: []
+user_id: shardendujha

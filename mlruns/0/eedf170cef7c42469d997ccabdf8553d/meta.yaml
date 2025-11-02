@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/eedf170cef7c42469d997ccabdf8553d/artifacts
+end_time: 1761600856904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eedf170cef7c42469d997ccabdf8553d
+run_name: selective-dove-592
+run_uuid: eedf170cef7c42469d997ccabdf8553d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761600854414
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/8756048aa88846f1997eae8d91fafef5/artifacts
+end_time: 1761625443068
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8756048aa88846f1997eae8d91fafef5
+run_name: mercurial-gull-10
+run_uuid: 8756048aa88846f1997eae8d91fafef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761625441147
+status: 3
+tags: []
+user_id: shardendujha

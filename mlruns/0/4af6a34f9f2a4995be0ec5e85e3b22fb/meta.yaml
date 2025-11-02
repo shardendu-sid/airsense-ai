@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/4af6a34f9f2a4995be0ec5e85e3b22fb/artifacts
+end_time: 1761599034635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4af6a34f9f2a4995be0ec5e85e3b22fb
+run_name: languid-carp-588
+run_uuid: 4af6a34f9f2a4995be0ec5e85e3b22fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761599032729
+status: 3
+tags: []
+user_id: shardendujha

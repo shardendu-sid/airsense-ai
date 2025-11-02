@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/31270357aa76475a9c61a7ee7da9b11b/artifacts
+end_time: 1761619071660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31270357aa76475a9c61a7ee7da9b11b
+run_name: fun-midge-97
+run_uuid: 31270357aa76475a9c61a7ee7da9b11b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761619069760
+status: 3
+tags: []
+user_id: shardendujha

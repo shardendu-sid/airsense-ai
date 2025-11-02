@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/0efd3cff5fe1491abfdb4fa42b426da9/artifacts
+end_time: 1761503414070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0efd3cff5fe1491abfdb4fa42b426da9
+run_name: smiling-crane-108
+run_uuid: 0efd3cff5fe1491abfdb4fa42b426da9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761503412149
+status: 3
+tags: []
+user_id: shardendujha

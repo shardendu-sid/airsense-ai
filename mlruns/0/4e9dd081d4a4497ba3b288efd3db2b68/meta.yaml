@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/4e9dd081d4a4497ba3b288efd3db2b68/artifacts
+end_time: 1761569889572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e9dd081d4a4497ba3b288efd3db2b68
+run_name: lyrical-ray-567
+run_uuid: 4e9dd081d4a4497ba3b288efd3db2b68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761569887679
+status: 3
+tags: []
+user_id: shardendujha

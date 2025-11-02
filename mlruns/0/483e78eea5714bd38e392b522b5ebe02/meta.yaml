@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/483e78eea5714bd38e392b522b5ebe02/artifacts
+end_time: 1761545302235
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 483e78eea5714bd38e392b522b5ebe02
+run_name: charming-bass-57
+run_uuid: 483e78eea5714bd38e392b522b5ebe02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761545300333
+status: 3
+tags: []
+user_id: shardendujha

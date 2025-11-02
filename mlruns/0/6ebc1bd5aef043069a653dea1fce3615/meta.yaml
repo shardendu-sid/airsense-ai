@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/6ebc1bd5aef043069a653dea1fce3615/artifacts
+end_time: 1761646648836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6ebc1bd5aef043069a653dea1fce3615
+run_name: welcoming-mole-962
+run_uuid: 6ebc1bd5aef043069a653dea1fce3615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761646646795
+status: 3
+tags: []
+user_id: shardendujha

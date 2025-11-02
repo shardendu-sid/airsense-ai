@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/620509d8f9504f238b7ba12dc2e7f8f9/artifacts
+end_time: 1761570799924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 620509d8f9504f238b7ba12dc2e7f8f9
+run_name: bustling-owl-558
+run_uuid: 620509d8f9504f238b7ba12dc2e7f8f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761570798020
+status: 3
+tags: []
+user_id: shardendujha

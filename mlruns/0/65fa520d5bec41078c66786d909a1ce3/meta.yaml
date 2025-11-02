@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/65fa520d5bec41078c66786d909a1ce3/artifacts
+end_time: 1761587193551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65fa520d5bec41078c66786d909a1ce3
+run_name: brawny-carp-173
+run_uuid: 65fa520d5bec41078c66786d909a1ce3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761587191107
+status: 3
+tags: []
+user_id: shardendujha

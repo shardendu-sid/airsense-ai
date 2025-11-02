@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/b2be8401d31644e1b8244d0199673ba9/artifacts
+end_time: 1761633638242
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2be8401d31644e1b8244d0199673ba9
+run_name: marvelous-bat-49
+run_uuid: b2be8401d31644e1b8244d0199673ba9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761633636312
+status: 3
+tags: []
+user_id: shardendujha

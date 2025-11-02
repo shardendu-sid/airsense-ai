@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a7efda808e89458e8c8985c17552672a/artifacts
+end_time: 1761537104237
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7efda808e89458e8c8985c17552672a
+run_name: rare-cow-188
+run_uuid: a7efda808e89458e8c8985c17552672a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761537102009
+status: 3
+tags: []
+user_id: shardendujha

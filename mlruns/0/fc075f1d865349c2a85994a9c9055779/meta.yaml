@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/fc075f1d865349c2a85994a9c9055779/artifacts
+end_time: 1761623619912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fc075f1d865349c2a85994a9c9055779
+run_name: awesome-foal-942
+run_uuid: fc075f1d865349c2a85994a9c9055779
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761623617680
+status: 3
+tags: []
+user_id: shardendujha

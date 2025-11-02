@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/9e6a8c810e324ffcbec5b7e950b230d7/artifacts
+end_time: 1762004575140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9e6a8c810e324ffcbec5b7e950b230d7
+run_name: unleashed-whale-823
+run_uuid: 9e6a8c810e324ffcbec5b7e950b230d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762004572733
+status: 3
+tags: []
+user_id: shardendujha

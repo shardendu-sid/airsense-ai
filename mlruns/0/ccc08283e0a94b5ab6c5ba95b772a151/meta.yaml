@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/ccc08283e0a94b5ab6c5ba95b772a151/artifacts
+end_time: 1762095330691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccc08283e0a94b5ab6c5ba95b772a151
+run_name: spiffy-mole-462
+run_uuid: ccc08283e0a94b5ab6c5ba95b772a151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762095328690
+status: 3
+tags: []
+user_id: shardendujha

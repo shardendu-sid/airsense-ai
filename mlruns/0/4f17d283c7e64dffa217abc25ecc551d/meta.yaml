@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/4f17d283c7e64dffa217abc25ecc551d/artifacts
+end_time: 1761575355709
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f17d283c7e64dffa217abc25ecc551d
+run_name: rare-colt-61
+run_uuid: 4f17d283c7e64dffa217abc25ecc551d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761575353785
+status: 3
+tags: []
+user_id: shardendujha

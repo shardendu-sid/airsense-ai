@@ -1,0 +1,22 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<link rel="stylesheet" href="static/css/data-analysis.css">
+<div class="visualization-container">
+    <h1>Data from apartment before using automation system with air cooler 01-02-2023 To 26-03-2023</h1>
+
+    <div class="first-row-plots">
+        <img src="data:image/png;base64,{{ plots_one['temp'] }}" alt="Temperature Plot">
+        <img src="data:image/png;base64,{{ plots_one['humid'] }}" alt="Humidity Plot">
+        <img src="data:image/png;base64,{{ plots_one['co2'] }}" alt="Co2 Plot">
+    </div>
+    <h1>Data from apartment after using automation system with air cooler 23-06-2023 To 12-07-2023:</h1>
+    <div class="second-row-plots">
+        <img src="data:image/png;base64,{{ plots_two['temp'] }}" alt="Temperature Plot">
+        <img src="data:image/png;base64,{{ plots_two['humid'] }}" alt="Humidity Plot">
+        <img src="data:image/png;base64,{{ plots_two['co2'] }}" alt="Co2 Plot">
+    </div>
+</div>
+
+    
+{% endblock %}

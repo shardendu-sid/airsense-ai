@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/a8e412282a40434997977685f1459c51/artifacts
+end_time: 1762087117481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8e412282a40434997977685f1459c51
+run_name: grandiose-ray-115
+run_uuid: a8e412282a40434997977685f1459c51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762087114245
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/13544a738f014a6c9319adca50528f65/artifacts
+end_time: 1761581725801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13544a738f014a6c9319adca50528f65
+run_name: unruly-shrew-108
+run_uuid: 13544a738f014a6c9319adca50528f65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761581723884
+status: 3
+tags: []
+user_id: shardendujha

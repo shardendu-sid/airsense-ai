@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/e9c7c65866664633ab5aa9140be33fa6/artifacts
+end_time: 1761573530452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9c7c65866664633ab5aa9140be33fa6
+run_name: bemused-conch-244
+run_uuid: e9c7c65866664633ab5aa9140be33fa6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761573528544
+status: 3
+tags: []
+user_id: shardendujha

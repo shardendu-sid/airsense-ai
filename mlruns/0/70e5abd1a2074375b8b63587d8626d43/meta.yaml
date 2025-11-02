@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/70e5abd1a2074375b8b63587d8626d43/artifacts
+end_time: 1761547121089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70e5abd1a2074375b8b63587d8626d43
+run_name: bustling-bat-114
+run_uuid: 70e5abd1a2074375b8b63587d8626d43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761547119189
+status: 3
+tags: []
+user_id: shardendujha

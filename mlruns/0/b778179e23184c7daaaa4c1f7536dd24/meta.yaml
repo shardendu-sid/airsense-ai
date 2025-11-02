@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/b778179e23184c7daaaa4c1f7536dd24/artifacts
+end_time: 1761531644284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b778179e23184c7daaaa4c1f7536dd24
+run_name: judicious-auk-859
+run_uuid: b778179e23184c7daaaa4c1f7536dd24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761531642399
+status: 3
+tags: []
+user_id: shardendujha

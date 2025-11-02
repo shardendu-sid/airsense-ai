@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/daa3ee270c10478cbf2e300e0812ee40/artifacts
+end_time: 1761625448923
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: daa3ee270c10478cbf2e300e0812ee40
+run_name: valuable-cat-909
+run_uuid: daa3ee270c10478cbf2e300e0812ee40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761625446984
+status: 3
+tags: []
+user_id: shardendujha

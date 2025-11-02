@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/6aad0354724b4be7a2ae886e92f467b7/artifacts
+end_time: 1761609056751
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6aad0354724b4be7a2ae886e92f467b7
+run_name: big-stork-954
+run_uuid: 6aad0354724b4be7a2ae886e92f467b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761609054838
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/aa0df463938d47438657b69e6891db13/artifacts
+end_time: 1761573534609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa0df463938d47438657b69e6891db13
+run_name: merciful-fish-526
+run_uuid: aa0df463938d47438657b69e6891db13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761573532595
+status: 3
+tags: []
+user_id: shardendujha

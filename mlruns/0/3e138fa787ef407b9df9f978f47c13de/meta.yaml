@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/3e138fa787ef407b9df9f978f47c13de/artifacts
+end_time: 1761542572995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e138fa787ef407b9df9f978f47c13de
+run_name: honorable-worm-327
+run_uuid: 3e138fa787ef407b9df9f978f47c13de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761542571079
+status: 3
+tags: []
+user_id: shardendujha

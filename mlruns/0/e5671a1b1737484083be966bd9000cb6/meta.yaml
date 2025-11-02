@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/e5671a1b1737484083be966bd9000cb6/artifacts
+end_time: 1761607231913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e5671a1b1737484083be966bd9000cb6
+run_name: magnificent-ant-379
+run_uuid: e5671a1b1737484083be966bd9000cb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761607229669
+status: 3
+tags: []
+user_id: shardendujha

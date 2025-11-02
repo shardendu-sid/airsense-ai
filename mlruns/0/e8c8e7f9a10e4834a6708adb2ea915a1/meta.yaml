@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/e8c8e7f9a10e4834a6708adb2ea915a1/artifacts
+end_time: 1762025509523
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e8c8e7f9a10e4834a6708adb2ea915a1
+run_name: adorable-lamb-716
+run_uuid: e8c8e7f9a10e4834a6708adb2ea915a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762025507608
+status: 3
+tags: []
+user_id: shardendujha

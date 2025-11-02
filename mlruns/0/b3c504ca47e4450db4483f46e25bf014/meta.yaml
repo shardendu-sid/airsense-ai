@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/b3c504ca47e4450db4483f46e25bf014/artifacts
+end_time: 1762087123906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3c504ca47e4450db4483f46e25bf014
+run_name: receptive-lamb-135
+run_uuid: b3c504ca47e4450db4483f46e25bf014
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762087121606
+status: 3
+tags: []
+user_id: shardendujha

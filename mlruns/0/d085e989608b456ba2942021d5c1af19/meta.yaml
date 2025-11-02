@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/d085e989608b456ba2942021d5c1af19/artifacts
+end_time: 1761576262332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d085e989608b456ba2942021d5c1af19
+run_name: capable-finch-214
+run_uuid: d085e989608b456ba2942021d5c1af19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761576260384
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/256fb6b8e0ad47869eb10e9ccb63fb90/artifacts
+end_time: 1761593570518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 256fb6b8e0ad47869eb10e9ccb63fb90
+run_name: caring-sheep-975
+run_uuid: 256fb6b8e0ad47869eb10e9ccb63fb90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761593568590
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,78 @@
+{% extends 'layout.html' %}
+
+
+    {% block content %}
+    <h1>Historical Indoor Air Quality Data</h1>  
+    <div class="top-bar">    
+          
+        <div class="search-container">
+            <form action="{{ url_for('main.display_sensor_data') }}" method="get">
+                <input type="text" name="search" placeholder="Search...">
+                <button type="submit">Search</button>
+            </form>
+        </div>    
+    </div>
+    
+    <table id="iaq-table">
+        <thead>
+            <tr>
+                <th>Timestamp</th>
+                <th>Temperature</th>
+                <th>Humidity</th>
+                <th>CO2</th>
+                <th>VOC</th>
+                <th>PM2.5</th>
+                <th>Location</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in table %}
+            <tr>
+                <td>{{ row['timestamp'] }}</td>
+                <td>{{ row['temp'] }}</td>
+                <td>{{ row['humid'] }}</td>
+                <td>{{ row['co2'] }}</td>
+                <td>{{ row['voc'] }}</td>
+                <td>{{ row['pm25'] }}</td>
+                <td>{{ row['location'] }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <!-- Pagination Links -->
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+             <!-- First Page Link -->
+             <li class="page-item {% if current_page == 1 %}disabled{% endif %}">
+                <a class="page-link" href="{{ url_for('main.display_sensor_data', page=1) }}">First</a>
+            </li>
+            <!-- Previous Page Link -->
+            <li class="page-item {% if current_page == 1 %}disabled{% endif %}">
+                <a class="page-link" href="{{ url_for('main.display_sensor_data', page=current_page-1) }}">Previous</a>
+            </li>
+
+            <!-- Page Number Links -->
+            {% set window = 5 %} <!-- Number of pages to show around the current page -->
+            {% for p in range(current_page - window, current_page + window + 1) %}
+                {% if p > 0 and p <= total_pages %}
+                    <li class="page-item {% if p == current_page %}active{% endif %}">
+                        <a class="page-link" href="{{ url_for('main.display_sensor_data', page=p,search=search_query) }}">{{ p }}</a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+
+            <!-- Next Page Link -->
+            <li class="page-item {% if current_page == total_pages %}disabled{% endif %}">
+                <a class="page-link" href="{{ url_for('main.display_sensor_data', page=current_page+1) }}">Next</a>
+            </li>
+            <!-- Last Page Link -->
+            <li class="page-item {% if current_page == total_pages %}disabled{% endif %}">
+                <a class="page-link" href="{{ url_for('main.display_sensor_data', page=total_pages) }}">Last</a>
+            </li>
+        </ul>
+    </nav>
+
+    
+
+    
+{% endblock %}

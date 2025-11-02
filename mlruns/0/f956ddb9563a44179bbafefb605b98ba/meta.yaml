@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/f956ddb9563a44179bbafefb605b98ba/artifacts
+end_time: 1762089928077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f956ddb9563a44179bbafefb605b98ba
+run_name: ambitious-lark-255
+run_uuid: f956ddb9563a44179bbafefb605b98ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762089926100
+status: 3
+tags: []
+user_id: shardendujha

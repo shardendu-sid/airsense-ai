@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/91860a113d564897be691e8af9a59bf5/artifacts
+end_time: 1761594482861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 91860a113d564897be691e8af9a59bf5
+run_name: peaceful-croc-126
+run_uuid: 91860a113d564897be691e8af9a59bf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761594480962
+status: 3
+tags: []
+user_id: shardendujha

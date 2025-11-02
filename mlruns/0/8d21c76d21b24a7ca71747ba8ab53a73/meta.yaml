@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/8d21c76d21b24a7ca71747ba8ab53a73/artifacts
+end_time: 1761511613080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d21c76d21b24a7ca71747ba8ab53a73
+run_name: nebulous-finch-895
+run_uuid: 8d21c76d21b24a7ca71747ba8ab53a73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761511611171
+status: 3
+tags: []
+user_id: shardendujha

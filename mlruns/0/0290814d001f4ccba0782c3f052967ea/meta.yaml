@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/0290814d001f4ccba0782c3f052967ea/artifacts
+end_time: 1761575353743
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0290814d001f4ccba0782c3f052967ea
+run_name: lyrical-boar-541
+run_uuid: 0290814d001f4ccba0782c3f052967ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761575351829
+status: 3
+tags: []
+user_id: shardendujha

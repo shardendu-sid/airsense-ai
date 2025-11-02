@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/983e34edf52445c1b946eeb7630af343/artifacts
+end_time: 1761604504513
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 983e34edf52445c1b946eeb7630af343
+run_name: capricious-snail-759
+run_uuid: 983e34edf52445c1b946eeb7630af343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761604502555
+status: 3
+tags: []
+user_id: shardendujha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/35112b7b46934adf8121729d39b793e3/artifacts
+end_time: 1761515256601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35112b7b46934adf8121729d39b793e3
+run_name: gifted-finch-41
+run_uuid: 35112b7b46934adf8121729d39b793e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761515254650
+status: 3
+tags: []
+user_id: shardendujha

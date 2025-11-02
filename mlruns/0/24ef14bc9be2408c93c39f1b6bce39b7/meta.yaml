@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/24ef14bc9be2408c93c39f1b6bce39b7/artifacts
+end_time: 1761507974100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24ef14bc9be2408c93c39f1b6bce39b7
+run_name: capricious-cow-795
+run_uuid: 24ef14bc9be2408c93c39f1b6bce39b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761507972194
+status: 3
+tags: []
+user_id: shardendujha

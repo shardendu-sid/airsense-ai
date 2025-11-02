@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/7e6bace831b24ce9af9d7e0e7ae08fa7/artifacts
+end_time: 1761625441119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e6bace831b24ce9af9d7e0e7ae08fa7
+run_name: grandiose-carp-933
+run_uuid: 7e6bace831b24ce9af9d7e0e7ae08fa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761625438842
+status: 3
+tags: []
+user_id: shardendujha

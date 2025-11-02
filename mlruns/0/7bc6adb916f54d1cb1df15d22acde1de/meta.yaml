@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shardendujha/thesis-project-final/mlruns/0/7bc6adb916f54d1cb1df15d22acde1de/artifacts
+end_time: 1762004915474
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bc6adb916f54d1cb1df15d22acde1de
+run_name: ambitious-goat-534
+run_uuid: 7bc6adb916f54d1cb1df15d22acde1de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762004913014
+status: 3
+tags: []
+user_id: shardendujha
