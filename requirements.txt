@@ -5,5 +5,5 @@ secure-smtplib
 ssl
 smtplib
 seaborn
--U scikit-learn
--U matplotlib
+scikit-learn
+matplotlib
